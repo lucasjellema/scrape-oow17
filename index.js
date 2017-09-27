@@ -30,6 +30,7 @@ var sessions = [];
 function getSessionData(search) {
   var callOptions = options;
   callOptions.form.search = search;
+  console.log("Search = "+search);
   request(callOptions, function (error, response, body) {
     if (error) throw new Error(error);
     var results = JSON.parse(body);
@@ -54,7 +55,7 @@ var delayedGetSessionData = function (ctr, type, firstDigit) {
 var sessionTypes = ['SUN', 'CON', 'TUT', 'GEN', 'BOF', 'HOL', 'SIG'];
 var ctr = 0;
 for (sessionType of sessionTypes) {
-  for (var i = 1; i < 9; i++)
+  for (var i = 1; i < 10; i++)
     // delay each request with requestdelay milisecs compared to its predecessor, in order to not overflow the backend server
     delay(requestdelay * ctr++).then(delayedGetSessionData(ctr, sessionType, i));
 }
