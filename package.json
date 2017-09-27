@@ -1,0 +1,14 @@
+{
+  "name": "scrape-oow17",
+  "version": "1.0.0",
+  "description": "Scrape session details from OOW 2017 to local JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
