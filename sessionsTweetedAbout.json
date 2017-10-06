@@ -1,0 +1,989 @@
+{
+	"SIG3193": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492959901597001TNFI/PF/Open World 2017-CON4153_v2.0_1507161268643001BLr6.pdf"
+	},
+	"TUT4244": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493071517800001TdAu/PF/TUT4244_1507041964346001WnNn.pdf"
+	},
+	"HOL7712": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15027819900650018pY8/PF/HOL7712_MFT_OOW2017_15067420839250015vEi.pdf"
+	},
+	"TUT7315": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14985041802890015AVg/PF/TUT7315 Oracle Enterprise Manager for MySQL _1507057775760001crm6.pdf"
+	},
+	"HOL5956": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493999100796001TMLH/PF/HOL5956-Oracle ZFS Storage Appliance Backup and Recovery using Oracle Recovery Manager_v7_1505977281055001d9Kd.pdf"
+	},
+	"BOF3305": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492977062578001TdWh/PF/JavaOne Secret of developing High Performance WebSite, with No budget_1506959671037001Akf2.pptx"
+	},
+	"SIG2706": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492809217777001TLgf/PF/OOW_OAUG_EBusiness_SecuritySIG_2017_1503600806656001nW55.pptx"
+	},
+	"TUT6632": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497013440585001CPVf/PF/JavaOne San Francisco October 2017_1507133774651001OOo1.pdf"
+	},
+	"TUT6207": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14945781523240017TAs/PF/Simplified-Fast-Fraud_Detection_1506999629539001nYt9.pdf"
+	},
+	"BOF7399": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1499986328105001Y3U5/PF/OOW2017_Blockchain Introduction for Developers_1506970880073001OPTC.pptx"
+	},
+	"BOF6321": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495928445991001N55K/PF/JavaOne San Francisco October 2017_1507133737479001BThZ.pdf"
+	},
+	"BOF6372": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14961032920200014TU6/PF/msa-bof_1502493001542001hf4e.pdf"
+	},
+	"HOL4739": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493371852729001ehA6/PF/HOL4739_intro_1507145339494001YCTI.pdf"
+	},
+	"HOL4906": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493419933040001nRDJ/PF/HOL4906_HowtoReplicateDataintheCloudinRealTime_1506526085781001t6f5.pptx"
+	},
+	"SUN3110": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492931065937001gyrO/PF/2017-10-oow-fma-application-containers-v01-final_1506982024616001ACZN.pdf"
+	},
+	"SUN3332": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492979811725001gvMz/PF/SwarmAtIaaS_15069829998360016vCX.pdf"
+	},
+	"SUN3828": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493038199161001bQ89/PF/SUN3828 Reimagining Water Utilities TCS AquaPrint Solution Powered by Oracle_1506679382508001EqfZ.pdf"
+	},
+	"SUN3882": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493042673003001T7Ak/PF/Redesign your Reporting and Chart of Accounts in the Cloud while utilizing current On Premise Financials.pptx_1506833220326001qP52.pdf"
+	},
+	"SUN3376": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492986823283001A8VA/PF/OOW_kgorman_mdonovan_2017_md_FINAL_1506966297539001Amw4.pdf"
+	},
+	"SUN3339": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492980339473001Tfel/PF/OOW17-SUN3339-Life-Hacks-for-PeopleSoft-Development_1507033775445001Wdfq.pdf"
+	},
+	"SUN3575": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493008257102001AbXL/PF/Managing Oracle Database in Oracle Exadata Express Cloud Service_15069544839970018Ree.pdf"
+	},
+	"SUN3252": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492970818410001Tiku/PF/OpenWorld SF 2017 - Migrating to Oracle Public Cloud 09302017_1506828470082001q4iz.pptx"
+	},
+	"SUN3124": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492934432079001T3dF/PF/CON3124-final-LucBors_1506891545817001iEj3.pdf"
+	},
+	"SUN3541": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493005849331001bjUg/PF/ncalero-oow17-redefining_tables_online_1506718543472001K1EL.pdf"
+	},
+	"SUN3583": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493010173064001gcnw/PF/OOW17_SOA_v3_1506989069380001POho.pptx"
+	},
+	"SUN2756": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492812455405001XtEZ/PF/Oracle OpenWorld_Session SUN2756_Caesars_Final_1507215079691001x20y.pdf"
+	},
+	"SUN2364": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492761898591001jDSp/PF/2017OOW_SUN2364_Final_1507199207672001YUbp.pptx"
+	},
+	"SUN2699": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492808695751001AjIu/PF/OpenWorld17_SUN2699_ERP_Cloud_v4_1506870332071001Lwqe.pdf"
+	},
+	"SUN2727": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492810380845001gWvG/PF/Oracle - SU2727 - Grant Thornton - 10-1-2017 Final_1507206345937001OYyC.pdf"
+	},
+	"SUN2304": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492745215641001aYv5/PF/SUN2304_15069276190120018zSz.pdf"
+	},
+	"SUN4389": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149310227795900195UI/PF/AMISandJET_JETPanelOOW2017_1507092423012001zGsq.pptx"
+	},
+	"SUN4641": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493316889450001O9DV/PF/4641 - Reconciling Bank Statements with PeopleSoft Cash and Treasury Management Solutions_Final_1506881389153001I7Vm.pdf"
+	},
+	"SUN4939": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14934345126110011LyY/PF/xinghua oow 2017 in-memory_1506653293260001yurV.pptx"
+	},
+	"SUN4612": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493302458217001O4xq/PF/OOW.17.BrScan.Final_1506923173007001I0bJ.pdf"
+	},
+	"SUN4811": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493399274212001eJ7A/PF/SUN4811_OKV_OOW_2017_1506919379419001ii7Q.pdf"
+	},
+	"SUN4393": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14931027927050019MYW/PF/Cloud_for_Managers_v1.1_1506955461922001ieZ7.pdf"
+	},
+	"SUN4505": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493221218495001ih9g/PF/SQL Audit for Performance-The Best Practice of DevOps on Oracle Database Cloud_1506930366344001iFlb.pdf"
+	},
+	"SUN4396": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493103896998001qvop/PF/Types of Skies_15069555914790018nK7.pdf"
+	},
+	"CON8189": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1506530409664001eEL7/PF/Veritas_Oracle_v2_1507123358236001BkOA.pptx"
+	},
+	"CON8091": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15055038453460011gqx/PF/COGNIZANT_KBACE_OOW17_SCM Presentation_150722231258400128aR.pptx"
+	},
+	"CON8090": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505499042991001dvsm/PF/2017 OOW VMAX Oracle General Session-v1_1507146557922001Yr8u.pdf"
+	},
+	"CON8167": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1506109631111001jzhy/PF/COO_DiLytics PBCS Analytics Solution_CON8167_v2_1507150871503001z0Il.pdf"
+	},
+	"CON8132": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505859645436001NgXF/PF/OOW_PPT_1506662833418001Zq03.pptx"
+	},
+	"CON8072": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505433604340001Zh9t/PF/GetTaxRight_TheFirstTime_EveryTime-ThomsonReutesONESOURCE-v1_1507049147075001cwGQ.pdf"
+	},
+	"CON8002": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505250476857001aRm0/PF/Intelligent Indirect Tax Compliance in the Cloud_1507147446963001zVaT.pptx"
+	},
+	"CON8004": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505255284753001aa5h/PF/JavaOne 2017 Java Challenges - Final_1506835375683001Gnwi.pptx"
+	},
+	"CON8109": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505759306652001njJo/PF/Linux Foundation and Oracle_1507137259330001Yikt.pdf"
+	},
+	"SUN1399": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491825224775001BmZe/PF/OOW17_Data_Guard_1504712859017001nGmp.pptx"
+	},
+	"SUN1871": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492524415798001dSef/PF/LetsGetStartedwithOracleDatabaseCloud_1506447580358001P2yt.pdf"
+	},
+	"SUN1889": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14925323728980013aQk/PF/BI Publisher Metrics Power the Recruiting Process 10.1.2017_15068766187260018dBm.pdf"
+	},
+	"SUN1974": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492606789469001FIuF/PF/CDNPresentation_OOW_20170919_V001_1506400200868001P6MD.key"
+	},
+	"SUN1607": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492115689896001lnLc/PF/Advanced PeopleSoft Administration_1506961048901001ilRs.pdf"
+	},
+	"SUN1599": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149211386024600100YN/PF/oow_oaugnj_presentaiton_2017-10_1506985057954001nMPy.pdf"
+	},
+	"SUN1835": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492507466817001FwCl/PF/Infosys_OOW17_Comprehensive P6 Reports using BIP_1506662136519001m7GA.pptx"
+	},
+	"SUN1051": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149072836547200196xS/PF/FranckPachot-MultitenantBeyondDocumentation_15068957252380016xxt.pdf"
+	},
+	"SUN1238": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491323280454001W5H2/PF/1-SQL The one language to rule all your data_1506964599574001OqVW.pdf"
+	},
+	"SIG1125": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490933065539001pbNi/PF/AR SIG Powerpoint collaborate 16_1506881692181001i6mA.pptx"
+	},
+	"SIG1221": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491265977671001GiqD/PF/GeoSIG_OOW 2017 slides_1506468028646001mIg4.ppt"
+	},
+	"SIG1453": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491918881010001MVFE/PF/CASIG OOW Meeting 2017 Final_1506018162853001d2tP.pdf"
+	},
+	"SIG1076": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14907983632820011K5T/PF/OAUG_Endeca_SIG_OOW_2017.10_1_17.kl.v4_1506912194514001O23f.pptx"
+	},
+	"SIG1483": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491941252698001e6fM/PF/AssetSIG_OOW17_1502816542310001pwFT.pdf"
+	},
+	"SIG1908": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492544774991001YpWS/PF/OOW17 Cost Mgmt SIG v2_1506997294260001PRnz.pptx"
+	},
+	"SIG1731": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492436138746001YCW6/PF/OOW_Channel Revenue Management SIG Upload 2017_1505505404262001GJg5.pptx"
+	},
+	"SIG1220": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491257526146001K93I/PF/TAX_SIG_OOW_17_1507022113908001cMpo.pdf"
+	},
+	"SIG1606": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492115354131001S0Wm/PF/Oracle Open World 2017 OAUG Siebel CRM SIG Meeting V6_1506906270898001iltn.pptx"
+	},
+	"SIG1645": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492185015461001TphJ/PF/OOW_OAUG_EBusiness_AppsTechStackSIG_2017_1507064711122001n591.pdf"
+	},
+	"SIG1646": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492185246111001TpKU/PF/Upgrade_SIG_OOW_2017_1507130485016001RbqI.pdf"
+	},
+	"SIG1100": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14908176072040019kHr/PF/OOW Configurator SIG Session PPT_1506832096249001LceA.pptx"
+	},
+	"SIG1121": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490896419906001YeeH/PF/EBS UMX SIG OOW 2017_1506790179167001GFY9.pdf"
+	},
+	"SIG1629": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492170745597001Sq9B/PF/OOW17-EAM SIG Oracle_15069531152370018Bu6.pdf"
+	},
+	"SIG1081": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14908062595520011gUC/PF/OPENWORLD PROJECTS SIG 2017_1503571450312001FLKs.pptx"
+	},
+	"SIG1077": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490798367207001uBnH/PF/oow17_SIG1077_oem_amp_sig_PPT_1506437340821001P08y.pdf"
+	},
+	"GEN6803": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14972902373050010bXH/PF/AgileFinanceTheNewOperatingModel_Complete_1506947072108001Amw2.pptx"
+	},
+	"GEN6873": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497393952355001DjRn/PF/GEN6873 General Session Empowering Modern Procurement_1507052103554001zhG2.pdf"
+	},
+	"GEN6440": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14964408973790018SAV/PF/General Session - Product line Update and Ongoing Investment Strategy [GEN6440 OOW '17]_1507140619700001OW64.pdf"
+	},
+	"GEN6579": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496963729831001nts7/PF/GEN6579 TCS CX Sales Drivers & Innovations_150713014311400127cv.pdf"
+	},
+	"GEN6563": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496954064654001njlq/PF/OOW_moleskine_1505315151914001IAeH.pptx"
+	},
+	"GEN6868": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497389084727001jWDj/PF/PPM Cloud General Session - Empowering Modern Project Portfolio Management_1506710314374001mNNu.pptx"
+	},
+	"GEN6999": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497552944550001M2FK/PF/OOW 2017 Engelbert Ovum_1506993154313001Nd4h.pdf"
+	},
+	"SUN7987": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505167071951001TK3K/PF/SUN7987NewStackOracle_Partner_1506804151675001qWy5.pptx"
+	},
+	"SUN7156": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14976533839610016oQb/PF/SUN7156.Architecting for Success-Planning and Implementing Analytics in the Cloud.Final._1507125904141001YPRC.pdf"
+	},
+	"SUN7273": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498085147112001Czfi/PF/SUN7273-Nadia-EBS-and-SaaS-Coexistence-FINAL_1507045435495001PqhE.pdf"
+	},
+	"SUN7539": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1501681219295001ZAIq/PF/OOW Connect & Extend Panel Presentation_15068713567480015cee.pptx"
+	},
+	"SUN7255": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497878556682001PXuK/PF/Oh, The Places You’ll Go – How IIC Found Their Path To The Cloud_1506713697328001ETZE.pptx"
+	},
+	"SUN7256": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497878719643001t4Nl/PF/CON6486-OracleCloudAtCustomer-Srini_1507182319219001z1Qa.pdf"
+	},
+	"SUN7131": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497645568420001PZJG/PF/Planning your move to the cloud and UI Mashup consistency-OOW 2017 Final_1506721837493001yYFp.pptx"
+	},
+	"SUN7540": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15016814701620011ylR/PF/OOW Lift & Shift Panel Presentation_1506871318159001oq4G.pptx"
+	},
+	"SUN5918": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493934085123001TmqG/PF/OOW_Presentation_Final_15069181639790018o5g.pptx"
+	},
+	"SUN5666": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493699466046001fU3x/PF/SUN5666_Rosenblum_1506695973039001HMwT.pptx"
+	},
+	"SUN5694": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493700794588001sOOu/PF/TGorman OOW17 LinuxUNIXTools 20171001_15069187627140016WWP.pptx"
+	},
+	"SUN5698": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937010151180018J60/PF/2017_OpenWorld_SUN5698_ppt_pub_15068903759990018Fh7.pptx"
+	},
+	"SUN5625": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936973572290018QRN/PF/SUN5625_Ashwin_vaidya_ppt_1506721856176001Zm1l.pptx"
+	},
+	"SUN5617": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936969308190018Pnz/PF/Fulay_OOW2017_Docker101_1506908838514001ApfU.pdf"
+	},
+	"SUN5603": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936957106870018NHl/PF/SUN5603 - Oracle E-Business Suite and Oracle Database on Private and Hybrid Clouds_1507128864229001YJkw.pdf"
+	},
+	"SUN5699": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937010886780018VDh/PF/Seeing is Believing_1499183857331001KsgJ.pdf"
+	},
+	"SUN5642": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936982325700018Cia/PF/Public-SSL securing Oracle DB_1503204438972001jWub.pptx"
+	},
+	"SUN5606": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493696271253001fFdR/PF/20171000 OUG presentation_1506986299609001ctPs.pdf"
+	},
+	"SUN5859": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493888221043001x9hP/PF/Ravello-sukim-20170920-ver-1.1_150689183020000166kh.pptx"
+	},
+	"SUN5647": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493698404384001fjF9/PF/O_Need for Speed_Top Five Oracle Performance Tuning Tips_1506835693998001rjSn.pptx"
+	},
+	"SUN5682": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493700179376001fmLn/PF/ASM_internals_Riyaj_15069174609070016Joj.pdf"
+	},
+	"SUN5654": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493698720810001sBlS/PF/King_Oracle_Database_12c_NewFeaturesForDevelopers_1507212560960001You8.pdf"
+	},
+	"SUN5644": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493698326804001fLwN/PF/SUN5644_1506101891467001j28Q.pptx"
+	},
+	"SUN5763": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937107587690018xtK/PF/Running High Performance Databases on OCI - upload_15069207375840016XQ4.pdf"
+	},
+	"SUN5680": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493700090977001sR5X/PF/oow17_12c_smaller_1506023045370001sqDV.pptx"
+	},
+	"SUN5683": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149370025646900181Gr/PF/Utilizing Containers to Simplify your Oracle DevOps - OOW 2017_1506654031705001ELwF.pdf"
+	},
+	"SUN5677": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936999945630018xZF/PF/OOW 17 Database Consolidation using the Oracle Multitenant Architecture_15068106752600015EXq.pdf"
+	},
+	"SUN5687": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937005058360018BXX/PF/SUN5687 - Securing Your DBA Monitoring and Backup Scripts  - SIMON PANE - IVICA ARSOV_1506923201879001AyoB.pdf"
+	},
+	"SUN5640": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936981543220018N9K/PF/Transformation of HR Systems_1506798891123001qYhx.pptx"
+	},
+	"GEN7018": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497568474763001gYSE/PF/GEN7018_Solaris_Nesheim_100217_1507165808255001O4xr.pdf"
+	},
+	"GEN7139": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497647778887001trUM/PF/GEN7139 - Siebel CRM Strategy & Roadmap_1507015220934001WK1B.pdf"
+	},
+	"GEN7004": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497553897043001M4AU/PF/Orange GEN 6996_1506525894790001mHRi.pptx"
+	},
+	"GEN7115": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497627446237001wI9A/PF/Oracle Open World - Kellie Romack_Speaker_FINAL9_27_1506540224292001YnBn.pptx"
+	},
+	"GEN7408": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1500050330429001hp9p/PF/Oracle Open World 10_2_1506810972475001IzjI.pptx"
+	},
+	"GEN7270": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498084683370001H9ML/PF/GEN7270-Cliff-EBS-Strategy-Roadmap-FINAL_1507131223090001B7PW.pdf"
+	},
+	"GEN7317": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498504750937001BKdo/PF/OracleOpenWorld_Keynote_Facebook_yoshinori_1506715065015001K5TZ.pptx"
+	},
+	"CON6329": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496076816414001NAJA/PF/OOW2017-Adv Analytics OM-v2_1507218769768001Ymi6.pdf"
+	},
+	"CON6484": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496707498591001Gs8u/PF/HCC-OOW-Cloud Migration Tool -On-JCS.09.26.2017_1506462228244001mokA.pptx"
+	},
+	"CON6405": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14962740947260010D4r/PF/WEDS_1400_Automated_Troubleshooting_Utilities_from_EBS_Support_1506345712242001mnCK.pptx"
+	},
+	"CON6330": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14960776706030019FxF/PF/OOW 2017 Event Based Billing_150722167925000128XG.pptx"
+	},
+	"CON6365": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496087999177001NFAe/PF/CON6365_Getting Optimal Performance from Oracle E-Business Suite_1507080402317001YSw8.pdf"
+	},
+	"CON6340": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149608044995300115i2/PF/CON6340-Guided-Buying-with-Employee-Driven-Procurement_15071639962720012S2C.pdf"
+	},
+	"CON6498": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496725420163001x0TU/PF/THT8135-Performance Optimization for Oracle's Cloud Infrastructure Software -JeffSavit_1506115104040001E1nJ.pptx"
+	},
+	"CON6269": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495219070020001yZuY/PF/NetbeansMeetsFedora_1506395009712001tXbe.pdf"
+	},
+	"CON6008": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14940155799020015ajE/PF/OOW17 Operationalizing Machine Learning into “Predictive” Enterprise Applications_1506796233006001rwlk.pdf"
+	},
+	"CON6487": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496708395688001G3aN/PF/PHS OOW Presentation v1.1_1506625036552001En0B.pptx"
+	},
+	"CON6334": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149607923471400118vq/PF/CON6334 OW2017 Mobile Maintenance Offline Update_150708292822900121h8.pdf"
+	},
+	"CON6375": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496133932165001yIBd/PF/CON6375-Hricko-Projects Update, Strategy, and Roadmap_1507220684102001OqQy.pdf"
+	},
+	"CON6437": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496434560657001FyKU/PF/CON6437_CloudWFM_1507149738171001YYGg.pdf"
+	},
+	"CON6472": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496697013696001itp1/PF/GraalVM OOW_150722126950200128Dk.pptx"
+	},
+	"CON6501": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496769213248001magT/PF/JavaOne2017_Road_to_Contributing_by_Developing_Tool_1506968548791001iClB.pdf"
+	},
+	"CON6370": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496088690382001yeUx/PF/CON6370 - Build, Deploy, and Manage Smartphone Applications for Oracle E-Business Suite_1507045000661001ZR2x.pptx"
+	},
+	"CON6447": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496453281559001zULv/PF/Blockchain_Panel_display_1506809282396001oBvU.pptx"
+	},
+	"CON6481": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496705865052001uFoQ/PF/OOW-CON6481_1507046736999001NhPo.pdf"
+	},
+	"CON3755": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493029557147001gcDV/PF/Java One 5 Pillars_1507216865673001xCwC.pdf"
+	},
+	"CON3287": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492975268221001AjKg/PF/HybridAppVBCS_1507182748292001OMEi.pdf"
+	},
+	"CON3066": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492908750894001gCR3/PF/20171003-How_to_Set_Up_Orchestrator_to_Manage_Thousands_of_MySQL_Servers_1507075489665001R0JK.pdf"
+	},
+	"CON3019": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492896266839001bWdu/PF/OOW2017-Why we're excited about MySQL 8-updated_1507037768909001nO38.pptx"
+	},
+	"CON3417": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492994753649001AMi2/PF/King_Extend_Oracle_Apps_Using_MCS_1507212436317001zOge.pdf"
+	},
+	"CON3502": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493002365275001TLBf/PF/SmartDog EBS to Cloud Merge Final_1507001933547001nNA8.pptx"
+	},
+	"CON3270": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492973049184001XkZQ/PF/Oracle Business Intelligence Cloud Service Data Integration_On-Premises-SaaS CON3270_1507008368690001Pexo.pptx"
+	},
+	"CON3387": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492989032132001gxgp/PF/CON3387_OOW2017_PeopleSoft_Cloud_Manager_1506998000859001ZPxl.pdf"
+	},
+	"CON3928": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493045663901001bC1p/PF/Oracle World - Wagstaff HCM Journey vfin_1506960520799001ASrv.pdf"
+	},
+	"CON3496": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493002154429001Al3r/PF/20171001 - Be pragmatic_1506795935911001rDny.pdf"
+	},
+	"CON3086": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492919229922001AkCv/PF/Migrating Applications to Oracle Cloud_1507216538465001BZv6.pdf"
+	},
+	"CON3637": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493014806912001Aw8r/PF/Oracle Financials Cloud with Oracle PBCS OOW 2017_1506954992124001I4ZQ.pptx"
+	},
+	"CON3122": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492933828570001AXn6/PF/Rabobank Oracle SOA plus Devops Final_1507049033847001WbXL.pdf"
+	},
+	"CON3961": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493047363094001Tssc/PF/CON3961_SAPonOracle_ChristophBrune_JanBrosowski_final_1507054786869001N7VI.pptx"
+	},
+	"CON3967": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493047859908001gwRs/PF/CON3967 - Saving Operational Costs with Oracle Cloud Infrastructure-Accenture_1506965327462001IK3V.pptx"
+	},
+	"CON3754": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493029402887001TiYs/PF/Java One Annotation_1507216891346001zj7w.pdf"
+	},
+	"CON3081": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492918121587001bn3M/PF/MySQL_Flexible Schema_for_IoT_1507080179002001z2p9.pdf"
+	},
+	"CON3731": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493026850407001A7Qd/PF/Xerox GEMS Cloud Journey and KBACE Oracle Open World 2017- CON3731_1507137127586001xr0Q.pptx"
+	},
+	"CON3531": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493004987285001XROK/PF/CON3531_Customer Experience Oracle HCM Cloud Implementation at Fabrinet_1505976280858001di03.pptx"
+	},
+	"CON3769": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493031811397001TzPl/PF/Digital Authoring with Asciidoc(tor) and AsciidocFX_1506899469119001qlLg.pdf"
+	},
+	"CON3119": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492932954199001bqDJ/PF/CON3119-final-small_1507088101528001zYx1.pdf"
+	},
+	"CON3883": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493042677795001bqIh/PF/Rapid Development Tools for Java EE 8 [CON3883]_1507164819961001zXFd.pdf"
+	},
+	"CON2377": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492764270829001Z09X/PF/OOW 2017 - Oracle in Corporate Banking_15072219126580012XRJ.pptx"
+	},
+	"CON2544": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492787850643001ZMLI/PF/Modernizing the Financial Crime Program_1506710934820001mLfT.pptx"
+	},
+	"CON2942": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492881423750001TJWc/PF/OOW_Darling_Ingredients_2942_v5_1507215839464001B8Pz.pdf"
+	},
+	"CON2559": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492788731271001krIp/PF/OOW - Darling Ingredients - Delivering an Effective Multicloud Solution to the Business_1506951717414001OxOI.pptx"
+	},
+	"CON2390": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492765663995001ZBdR/PF/CON2390_OOW2017_EBS_Payroll_CloudHCM_Integraton_1507130950498001ORcj.pdf"
+	},
+	"CON2854": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492860963413001TM0u/PF/kafka-ux_1507092341372001Yq2u.pptx"
+	},
+	"CON2244": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492717873865001ZYMF/PF/CON2244 - OOW 2017 Reporting Capabilities in Oracle HCM Cloud (RICK ONLY)_1506801299092001onJ2.pptx"
+	},
+	"CON2497": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492783637451001Zv5y/PF/OOWAdvanced Procurement at UL Services Procurement iSupplier Portal and Sourcing_1507017652958001Njxq.zip"
+	},
+	"CON2814": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492832544234001gXnk/PF/Arby's Restaurant Group's Continued Journey to Oracle's Cloud CON2814_1507210107494001Y2LC.pptx"
+	},
+	"CON2072": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492634893551001aOjA/PF/Fast and Furious CPUs - OpenWorld 2017_15054945501960011xJL.pptx"
+	},
+	"CON2714": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492809601247001XiGb/PF/OOW17 Stratton CON-2714_1507201654247001Bobm.pdf"
+	},
+	"CON2214": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492711483426001Z8Qp/PF/New Age Project Manager Final 10022017_1506990131047001WwfN.pdf"
+	},
+	"CON2375": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492764123298001jWqS/PF/OOW 2017 - Real time Payments_15072218701560012jiD.pdf"
+	},
+	"CON2097": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492652353072001aY2P/PF/Philly JUG JavaOne 2017_1506898622666001AS2d.pdf"
+	},
+	"CON2920": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492878852177001XgWD/PF/soaring-across-the-clouds-oracleOpenWorld2017-Oct2017_1507092386466001RcX5.pptx"
+	},
+	"CON2467": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492780618182001aTuX/PF/CON2467_Citizens Bank_KBACE Cognizant_OOW 2017_1506628746090001HCUY.pdf"
+	},
+	"CON2678": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492806379921001b2Oc/PF/Get Hip with JHipster - JavaOne 2017_15071371245740012qtm.pdf"
+	},
+	"CON2120": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492684372345001kNau/PF/How We Started Our First Java Conference JVMCON_1507070422056001Rqhh.pdf"
+	},
+	"CON2721": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492809921011001TRIA/PF/OOW17 Session ID CON2721 (Kokkonen) FINAL_1506699429626001mD1M.pptx"
+	},
+	"CON2535": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492786380110001kJ5o/PF/PwC_Raja & Cziráky_IFRS9_compliance_OOW2017_CON2535_1506626551878001Khal.pptx"
+	},
+	"CON2386": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14927651029280010Nne/PF/CON2386_OOW2017_ EBS_Update_PAY_BEN_1507130924337001ONId.pdf"
+	},
+	"CON2956": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492882695482001TrEX/PF/Oracle EPM Cloud for Sales  Marketing_OOW Presentation Uploaded_1507135391617001Y4uf.pptx"
+	},
+	"CON2758": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492812626108001gto1/PF/Oracle OpenWorld_Session CON2758_Wells_Final_1507215100043001zciS.pdf"
+	},
+	"CON2367": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492762485309001ZHRk/PF/2017-J1-Vaadin-NetBeans-Presentation_1506913084838001ilrI.pdf"
+	},
+	"CON4567": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493252415399001TMTb/PF/CON4567_BoostYourBackups_1507038089466001c2ip.pptx"
+	},
+	"CON4088": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493057646899001TKQi/PF/IQMS Business Intelligence_150679964362700150mf.pptx"
+	},
+	"CON4522": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14932369351710010f4L/PF/CON4522 1 Stop Srvcs Shop for Digital Transformation FINAL 26Sep2017_1506524885782001GEtA.pptx"
+	},
+	"CON4867": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493411122439001nNHL/PF/OW Presentation - Final_1506374386716001dNVT.pptx"
+	},
+	"CON4687": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493332425413001OX41/PF/2CANA_Bestmed_OOW_ODA_upload_1506208997777001j1xW.zip"
+	},
+	"CON4879": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493414935235001bEgd/PF/OOW 2017 YFAI Presentation 09 20 2017_1505952595850001dvZb.pptx"
+	},
+	"CON4804": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493396254038001erJo/PF/Oracle Data Management Platform For Innovation_OOW17_1507045198075001NpCR.pdf"
+	},
+	"CON4853": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493408983926001n1HL/PF/CON4853_1507122981608001YMCg.pptx"
+	},
+	"CON4400": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493105420186001KISK/PF/CON4400 - Breaking up the Monolith with Jigsaw_1507011968142001ZYPL.pdf"
+	},
+	"CON4440": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493149695930001Kfwo/PF/CON4440 Data Protection Seamlessly Integrated with the Cloud FINAL_1507155152237001xGGJ.pptx"
+	},
+	"CON4343": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493086147097001bSMq/PF/Getting On Oracle Cloud_15071435772120012rYS.pdf"
+	},
+	"CON4921": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493423908985001nZdy/PF/Oracle OOW Presentation 20171004 v1_1506881472335001qa6f.pptx"
+	},
+	"CON4153": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493062878828001XCIl/PF/Open World 2017-CON4153_v2.0_1507161228056001OHwP.pdf"
+	},
+	"CON4350": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493087535642001AGiC/PF/con4350_1507157279748001Ri9P.pdf"
+	},
+	"CON4222": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493070164128001g9Md/PF/2017 OOW Presentation_1507207443667001RS3o.pdf"
+	},
+	"CON4445": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493156085994001K8u3/PF/CON4445_Effortless_Platform_Service_Integration_in_Oracle_Cloud_1506975968991001OvQF.pptx"
+	},
+	"CON4349": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493087201958001bUqZ/PF/Con4349_Zhuang_Smyrnov_ppt_1506825723722001rRpt.pdf"
+	},
+	"CON4017": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493052472723001bc07/PF/CON4017 Lower Archive Costs by Seamlessly Integrating On-Premises and Cloud Storage (FINAL)_1506997872360001ZMcK.pdf"
+	},
+	"CON4597": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493292290266001OfCb/PF/19092017_Security in Cloud_OOW_2017_OracleFZ_FG_FINAL_1506356303666001m8kD_1506366341183001jOK9.pptx"
+	},
+	"CON4333": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493085198441001TYcb/PF/JavaOne 2017 - Protecting Microservices - Best Practices and Strategies_1507158733437001Otq9.pdf"
+	},
+	"CON4841": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493407645337001nyKG/PF/Oracle Open World - TDE Final_1506350720587001CqlG.pptx"
+	},
+	"SUN6246": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495116083214001D2KJ/PF/Cloudy with a chance of APEX APEX OOW 17_1504104910672001G4sz.pdf"
+	},
+	"SUN6260": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495202099895001dMXd/PF/oow17_haODIWithoutJ2EE_1506504499564001GATV.pdf"
+	},
+	"SUN6259": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495201634990001046E/PF/SUN6259 - Kafka's Role in Implementing Oracle's Big Data Reference Architecture_1506913292708001Oh6c.pdf"
+	},
+	"SUN6242": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495114606566001c1Bl/PF/Make your APEX Fly_1500533478961001IbCP.pdf"
+	},
+	"SUN6276": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495468943199001oRiR/PF/Migrate WebLogic to Containers_final_1506973057820001iILM.pptx"
+	},
+	"SUN6395": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265211550001nKke/PF/NEOAUG-ESOAUG OOW Meeting 071817 Draft_1500387533334001LsaD.pdf"
+	},
+	"SUN6251": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495124529963001cGRW/PF/OpenWorld 2017 Alexa and ORDS 16by9_1503872390845001CZXp.pptx"
+	},
+	"SUN6241": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495113327807001pUAd/PF/Backstage Pass - OpenWorld 2017 - CBarbieri_15069830411710016USV.pdf"
+	},
+	"SUN6291": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495639672111001M9KQ/PF/20171001 OOW SUN6291_1507045169722001ZOe0.pdf"
+	},
+	"SUN6247": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495116474205001pmPI/PF/OOW17-Jumpstarting Your Cost Allocations with Profitability and Cost Management Cloud Service (PCMCS)_1506721538856001ZCWk.pdf"
+	},
+	"SUN6252": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495125482161001po7B/PF/oow_2017_koletzke_thick_db_1506978634003001OVbB.pdf"
+	},
+	"SUN6403": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265212124001nRq1/PF/NCOAUG OOW Presentation Olga Johnson_1506999033225001P5V8.ppt"
+	},
+	"SUN6398": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265211768001n1Bt/PF/OOW Session SUN6398_1506529243375001Gm31.ppt"
+	},
+	"SUN6397": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265211693001nGfC/PF/NorCalOAUG_OOW17_1505504296388001ZVO2.pptx"
+	},
+	"SUN6965": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497544557499001Jiub/PF/PaaS SaaS Integration Patterns_1507220624137001YKtL.pdf"
+	},
+	"SUN6249": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495119604805001LGjt/PF/OpenWorld 2017 JPorter.ElevatingYour_1506648295891001EJw4.pptx"
+	},
+	"SUN6469": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496695926537001ivAj/PF/SUN6469-Five_key_steps_to_automating_your_workload_migration_to_Cloud_SCoter_1506896398931001Ip7g.pdf"
+	},
+	"SUN6240": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495112906610001DCWw/PF/A Real-World Implementation of FCCS-Lessons Learned and Mistakes You Do Not Want to Repeat Oct-01_15069153029480016BNK.pdf"
+	},
+	"SUN6274": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14954633642320017kvv/PF/APEXForms_1507133421065001Ygii.pdf"
+	},
+	"SUN6106": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494177540390001T7aL/PF/MySQL automatic diagnostic system, mechanism and usage v1.0(final)_1506971081020001OIKF.pptx"
+	},
+	"SUN6311": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495718437904001zYXu/PF/The Data Chain - OOW2017 for upload_1507123661845001Ba2V.pdf"
+	},
+	"SUN6255": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495128890285001pyoP/PF/OOW17_ERPA_Transitioning OBIEE On-Premise to BICS v3.0_1506393121507001G2DW.pptx"
+	},
+	"SUN6566": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496955960767001CUZV/PF/ADF-Cloud_v1_1507000619945001z5ZU.pptx"
+	},
+	"SUN6243": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495114946456001pwKM/PF/GET POST ORDS JSON_1499260862552001HPRt.pdf"
+	},
+	"SUN6896": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497448948075001MDjX/PF/SUN6896 - Accelerate Migration to Cloud  with DIPC-Thomas-v4_1506921815965001Oqfl.pdf"
+	},
+	"SUN6522": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496786978794001rUAz/PF/How to use the cloud at Tokyo Gas_Final_rev2_1506387415954001eE9e.pptx"
+	},
+	"SUN6257": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14952012738160010mmt/PF/Oracle Data Visualization SDK_1507135945725001zlg8.pdf"
+	},
+	"SUN6399": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265211833001nqCh/PF/GOAUG - Gateway OAOAUG Slides OOW17_1506687252198001KIUw.pptx"
+	},
+	"SUN6400": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496265211900001nSQ9/PF/ATL_OAUG_OOW_2017_1506709029436001y2hN.pptx"
+	},
+	"SUN6263": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495203150523001gxUK/PF/GEOOW17.GCrisci.Ive Got an MDX Script for That_1506004671422001MeLj.pdf"
+	},
+	"SUN6245": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495115579015001DVXB/PF/build_something2017_oow_1506865059623001rNvb.pdf"
+	},
+	"SUN6615": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496975818105001ZWQG/PF/OOW National Pharmacies SUN6615_1505972974990001FPhw.pptx"
+	},
+	"SUN6617": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496976428657001eD7C/PF/SUN6617 - KeepingUpwithJD Edwards_CloudReleaseandUpgradeInformation_15069137563920016skT.pdf"
+	},
+	"SUN6256": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14952009824810010CA0/PF/OOW17-Oracle Planning and Budgeting Cloud Service Oracle Business Intelligence Cloud Service_1506721913659001KSoa.pdf"
+	},
+	"CON5042": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493576854104001fk3j/PF/BigDataonBigMaps_1507135503120001YaRc.pptx"
+	},
+	"CON5762": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493709593093001s3s6/PF/20170929 Collaborative Cloud-Based Virtual Reality for Scientific Education and Research_1507052963130001z6R9.pdf"
+	},
+	"CON5966": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494002348152001UAoQ/PF/CON5966_Orchestrating and Automating Business Continuity with Engineered Systems_GN-MR-AG_FINAL_1507135125143001zwFK.pdf"
+	},
+	"CON5830": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149383447285600174Dv/PF/OOW2017_CON5830_v1.0_1507174706277001zfzQ.pdf"
+	},
+	"CON5692": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937006202560018kpV/PF/Cloud Tax_OOW2017_Final_1507080411476001xYQH.pdf"
+	},
+	"CON5775": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493729167892001fyot/PF/OOW17Picasso_1505869654792001DVex.pptx"
+	},
+	"CON5074": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493588968117001sBhW/PF/javaone-2017-eventsourcing_1506753763649001qfwZ.pdf"
+	},
+	"CON5192": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149364622646900186Jd/PF/Re-Quest OpenWorld 2017 Session CON5192 Flexible Architectures Using ODA and the Cloud-FINAL_1507067261823001nT6U.pdf"
+	},
+	"CON5213": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493651512737001fppZ/PF/Glintt OCM Next IT Generation for Healthcare_JPC_v20170926_1506588946239001mQPU.pptx"
+	},
+	"CON5399": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936715767530018Le5/PF/OpenWorld Draft 10.3.17 v2_1507081533832001B7WR.pdf"
+	},
+	"CON5794": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937512097980017zca/PF/OOW OTAC Roadmap Update_1507051499165001NFye.pdf"
+	},
+	"CON5645": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493698333458001fasf/PF/Bioinformatics_1507069999463001YQsc.ppt"
+	},
+	"CON5118": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936078590490018LEE/PF/OOW 2017 PwC_ClubCorp's Oracle Transformation 100417_1507164070323001Ba0p.pptx"
+	},
+	"CON5252": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493660608528001fHDq/PF/microservices_simplification_1507053580671001cnvd.pdf"
+	},
+	"CON5932": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493952388096001UFl7/PF/CON5932 - Moving On-Premise Higher Education Applications to the Oracle_150707082985700123RM.pdf"
+	},
+	"CON5329": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493667219613001sczs/PF/State of Maine - OOW 2017_1507005606011001zkfR.pptx"
+	},
+	"CON5977": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149400505812600152hu/PF/OpenWorld2017-BackupTips CON5977_1507057127683001ZyVc.pdf"
+	},
+	"CON5196": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493647579506001sgfj/PF/Critical Components to a Successful Multipillar Cloud Implementation v2017_0920_15059452607280012zqJ.pptx"
+	},
+	"CON5234": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936568070790018rNC/PF/Narrative Reporting - EPRCS FJ Vikash v1.1_1507210168496001Biwf.pdf"
+	},
+	"CON5465": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149367729321400189ih/PF/CON5465 - Fill your Data Lake with Potable Data_1506999208189001nOym.pdf"
+	},
+	"CON5455": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936767268350018D0e/PF/Machine Learning OOW V3_1507084898917001BHvT.pdf"
+	},
+	"CON5914": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493932617559001TCCb/PF/KPMG Project Governance and PMIS_1507135283909001O0hC.pdf"
+	},
+	"CON1108": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490867393825001Yh9u/PF/CON1108 2017 OOW SQM Presentation_15072164535640012ZcW.pdf"
+	},
+	"CON1420": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491854131638001MdN3/PF/OOW17 Presentation Oracle and NHSBSA v5_1506682816090001yKA7.pptx"
+	},
+	"CON1654": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14921945150030010651/PF/How Plantronics Uses Oracle iStore for Customers to Enter Orders Themselves 24-7_1507118501277001zkCS.pptx"
+	},
+	"CON1403": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491828431976001tnuB/PF/Hacking-into-Oracle-Database-with-SQL-injection_1507162884140001B4j9.pdf"
+	},
+	"CON1343": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491573678378001ABz2/PF/CON1343_1506017521982001FAVx.pdf"
+	},
+	"CON1526": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14920306836650015fzz/PF/Oracle Database Appliance_One Button, Multiple Shows [CON1526]_1506739333496001qX6i.pptx"
+	},
+	"CON1242": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491330049850001WJxC/PF/Making RESTful Web Services the Easy Way with Node.js_1507080244150001xeLJ.pdf"
+	},
+	"CON1133": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490967504516001pqof/PF/Open World Presentation_1507222356777001xRiP.ppt"
+	},
+	"CON1814": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492474918990001dacr/PF/FedEx OOW 2017 v7_1506973356746001I6Tm.pptx"
+	},
+	"CON1350": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491582508711001k1SH/PF/CON1350_Oracle Open World 2017 Conference Presentation_FINAL_1506537893644001t0Im.PPTX"
+	},
+	"CON1801": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492463290452001bEAz/PF/CON1801_AnthemKBACE_PDC@OOW2017 (018)_15069700689470018RaG.pdf"
+	},
+	"CON1921": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492551848127001FZAq/PF/CON1921 Telco-in-a-box_v0.5_15069727870590016ttu.pptx"
+	},
+	"CON1965": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492603761090001F73K/PF/CON1965_1506673686464001Emh8.pptx"
+	},
+	"CON1807": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492466540015001Yxro/PF/CON1807_SAPsBestFriend_PuchalskiGalisDeneckeBrosowsk-vBP_1506896881451001q6Cy.pptx"
+	},
+	"CON1940": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492576028285001b9de/PF/CON1940_1506449505766001mvhJ.pptx"
+	},
+	"CON1893": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492533359731001YjLu/PF/Dell OSB Upgrade Story - OOW 2017V1.1_1507002887127001ZKAa.pdf"
+	},
+	"CON1049": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490723259006001O3EL/PF/Docker for Dummies_1504432474967001QkPa.pdf"
+	},
+	"CON1298": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491491385937001BbLu/PF/CERN - OpenWorld Presentation - OCT-2017_1505392831179001QtVp.pdf"
+	},
+	"CON1914": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492545590100001b1Un/PF/OOW Period Close for MFG  Dist v5_1506997329567001ZRa6.pptx"
+	},
+	"CON1967": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14926047017640013h9R/PF/OOW2017_CON1967_V5_1507051627741001zixw.pptx"
+	},
+	"CON1172": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491078169049001pZHF/PF/oow_1_1507216430629001BXC8.pptx"
+	},
+	"CON1918": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492549419424001dmU5/PF/Oracle_OOW17_Presentation_1507052137577001WFf4.pptx"
+	},
+	"CON1391": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491754648905001BNmV/PF/OOW17 Chevron JDE Upgrade Success Factors_1506969591699001Oz3Z.pdf"
+	},
+	"CON1317": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491517154751001k2sS/PF/2017 iStore Open World Final_1506627371656001mXKq.pptx"
+	},
+	"CON1087": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14908145760250019bGX/PF/oow17_iot_smaller_1506022731914001FErA.pptx"
+	},
+	"CON1556": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492074238503001dLQM/PF/A Microservice Approach for Legacy Modernisation vFinal_1507101150185001YyM7.pdf"
+	},
+	"CON1141": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1490979484228001pGMs/PF/OOW17-PSU_ICS_PRESO_1506380347706001POSc.pdf"
+	},
+	"CON6409": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14962753605470010glA/PF/OOW17_EngSys_Diagnostics_v2_1507130075712001z1fI.pptx"
+	},
+	"CON6303": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495648595083001MJt1/PF/CON6303_How Safe am I_1506709179779001KxlP.pptx"
+	},
+	"CON6337": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496080032041001yjAq/PF/CON6337-Improving-Supplier-Risk-Mgmt-AI_1507049910807001Zxng.pdf"
+	},
+	"CON6407": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496274906966001rKVU/PF/UX One Best Practices_1507146651566001RmOT.pptx"
+	},
+	"CON6160": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14942518320930015Ry8/PF/NetbeansMeetsFedora_1506394995999001PFYN.pdf"
+	},
+	"CON6292": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495641039212001MKew/PF/OOW 2017 - Oracle CPQ Cloud Implementation at Oracle - v2_1506953718740001Idet.pdf"
+	},
+	"CON6417": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496416592124001WmyD/PF/OOW2017-12cR2-Lessons_1507096654126001xApF.pdf"
+	},
+	"CON6336": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496079832397001Nwss/PF/CON6336 Procurement Strategy and Roadmap V7_1507221063897001xoJR.pdf"
+	},
+	"CON6443": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14964439723440018lcp/PF/CON6443_Cognizant_Emory_Case_Study v1_1507040504757001Pquy.pptx"
+	},
+	"CON6406": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496274562515001rOvO/PF/PeopleSoft Tech Top Trending Issues and Their Resolutions_1506710977046001KuNM.pptx"
+	},
+	"CON6195": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14944491483770016aGZ/PF/CON6195-Realtime-Smart-Metering-Mikael-Petit-Francois-Vetter-Eric-Bezille-20171003_1507019268339001WXXP.pptx"
+	},
+	"CON6476": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496704148212001xVMY/PF/NewStackOracle_v10_1506802810562001LZE8.pptx"
+	},
+	"CON6302": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495648376327001FcrY/PF/CON6302_v1.4_1506979672412001iJUw.pptx"
+	},
+	"CON6234": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495048914431001pkve/PF/con6234_transML_V3_turullols_1506956337481001IK1e.pdf"
+	},
+	"CON6480": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496705617096001xDBV/PF/turbo_charged_kubernetes_15071658427800012WLn.pdf"
+	},
+	"CON6446": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496451910374001zxG6/PF/Visual and Adaptive Analytics for Everyone [CON6446]_1507057916741001c1x5.pdf"
+	},
+	"CON7098": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149760812154700169Bc/PF/CON7098_1506712550839001KcdA.pptx"
+	},
+	"CON7222": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14978465897990012FIh/PF/CON7222_1506998584501001Nqnz.pptx"
+	},
+	"CON7093": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497604183121001PEsh/PF/CON7093_SSI-OOW17-04Oct_1507138700845001zByg.pptx"
+	},
+	"CON7199": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14977011452260016bR4/PF/BuildingACaseforMarketingTech_1507181313750001RZGk.pdf"
+	},
+	"CON7203": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14977512043780012z1n/PF/CON7203 - OOW Retail session RGBU-ISG v3_1506692718263001KDiu.pptx"
+	},
+	"CON7005": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497554214156001BGvP/PF/Orange CON7005_1506525912502001eb94.pptx"
+	},
+	"CON7310": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498503486064001Beeq/PF/oow-2017-sfo-innodb_8.0_15071659398190012Yhm.pdf"
+	},
+	"CON7309": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498503311565001BBUw/PF/OptimizerOOW2017_15071356010740012yUR.pdf"
+	},
+	"CON7289": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498205942746001Pe5l/PF/MySQLEnterpriseEdition_CompleteGuide_v3_1506980284112001iF7r.pptx"
+	},
+	"CON7028": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14975726993390016BGD/PF/CON7028-OpenWorld2017.v2_1507098622575001z4b3.pptx"
+	},
+	"CON7102": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14976084626830016f3r/PF/CON7102-Power_experience_with_content_ delivery_1506471869539001e3gB.pdf"
+	},
+	"CON7126": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14976420984460016vLO/PF/OOW17_Enterprise_Shift_SFDC_10_2_17_1506954162555001AcKa.pdf"
+	},
+	"CON7271": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498084887342001HaE5/PF/CON7271-Nadia-EBS-Strategy-Cloud-Infrastructure-Final_1507045369464001NZe1.pdf"
+	},
+	"CON7244": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497868163521001w6sd/PF/Utilizing Technology in the Cruise Industry to Drive Better Guest Experiences - PPT Presentation OOW17_1507128699122001BoGg.pdf"
+	},
+	"CON7146": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14976510039810016cJB/PF/Accelerate with ABM_OOW deck_final_1506922192620001i2Ds.pdf"
+	},
+	"CON7127": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14976433174420010AOd/PF/Wiggle Deck_FINAL_1506716585228001HgSn.pptx"
+	},
+	"HOL7747": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1502928711300001hEjf/PF/HOL7747-Manage & Secure External Identities_1507044632950001NlDP.pptx"
+	},
+	"HOL7554": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15018030608740011Q2e/PF/HOL7554_intro_1507095969698001YTWD.pdf"
+	},
+	"HOL7748": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1502928970380001wuzG/PF/HOL7748 - Securing Fusion Applications_1506101028043001EPn7.pptx"
+	},
+	"HOL7299": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498212068234001ukrq/PF/OOW2017-MySQL Performance 101 HOL_15069209581600018Gg5.pdf"
+	},
+	"HOL7597": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1502205623903001QoJI/PF/2017-09-BDS-Hands-on_1507130968655001R6Mg.pdf"
+	},
+	"HOL7708": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1502724790237001lOol/PF/HOL7708 - ODI_GG_BigData_HOL_15069218819570016uGw.pdf"
+	},
+	"HOL7764": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1503004178015001py9v/PF/Handson Lab flow EPBCS OOW17_1506729218838001Igcz.pdf"
+	},
+	"HOL7550": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1501796658697001jc1j/PF/HOL7550 - Building Development Environments with Docker and Software Collections_1506560334521001bbEH.pdf"
+	},
+	"HOL7716": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15028203542200018ge8/PF/BCS Openworld HOL_1506108878787001CZtV.pptx"
+	},
+	"HOL7960": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1504735132067001aXMp/PF/Eric Docker 101 Workshop - JavaOne 2017_1507059814018001PM4r.pdf"
+	},
+	"HOL7896": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1504101843284001eyBI/PF/JavaOne_Why_Reactive_1507060963241001zChl.pdf"
+	},
+	"HOL7298": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498208838378001TyNr/PF/oow_presentation_2017_1506701162372001mE8Y.pdf"
+	},
+	"HOL7584": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15021438232870019rUX/PF/OOW-2017-HOL7584-Guide-v2_1507052406971001ncHA.pdf"
+	},
+	"HOL7715": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/15028141126270017F0M/PF/HOL7715 _OracleGoldenGateCloudServiceReal-TimeDataReplicationintheCloud_1507046005945001ccVQ.pdf"
+	}
+}

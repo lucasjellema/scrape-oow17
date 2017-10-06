@@ -1,0 +1,524 @@
+{
+	"TUT3045": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492901668615001brln/PF/2017-10-02 CF @ JavaOne_1507012791774001WJ2t.pdf"
+	},
+	"TUT1931": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492567077162001YXjb/PF/TUT1931_Anderson_15072141989970012AH9.pdf"
+	},
+	"TUT4244": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493071517800001TdAu/PF/TUT4244_1507041964346001WnNn.pdf"
+	},
+	"BOF4226": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493070354579001bztO/PF/BOF4226_15070712424820012GfN.pdf"
+	},
+	"HOL1320": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491518587382001AAau/PF/Instructions for the Hands-On-Lab_1505478210731001ZJwt.pdf"
+	},
+	"HOL1695": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492358303521001dzE1/PF/JUnit 5 HOL Intro Presentation_1506302256561001mwYg.ppt"
+	},
+	"BOF7382": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1499782723898001QZ9J/PF/JUnit 5 - New Opportunities for Testing on the JVM - sbrannen_1507150359550001OISy.pdf"
+	},
+	"BOF7399": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1499986328105001Y3U5/PF/OOW2017_Blockchain Introduction for Developers_1506970880073001OPTC.pptx"
+	},
+	"TUT6632": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497013440585001CPVf/PF/JavaOne San Francisco October 2017_1507133774651001OOo1.pdf"
+	},
+	"TUT6207": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14945781523240017TAs/PF/Simplified-Fast-Fraud_Detection_1506999629539001nYt9.pdf"
+	},
+	"CON8004": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1505255284753001aa5h/PF/JavaOne 2017 Java Challenges - Final_1506835375683001Gnwi.pptx"
+	},
+	"BOF5768": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493711970153001seFW/PF/rtsj-bof_1507058739928001PE9c.pdf"
+	},
+	"BOF5194": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936467492310018kOo/PF/JavaOne2017BOF_1507065750326001W7mV.pptx"
+	},
+	"BOF5796": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493752926873001Pt7f/PF/Microservices Mishaps_1507145545088001Yy2u.pptx"
+	},
+	"CON7323": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498574182891001k21t/PF/refactoirngToFunctionalStyle_1507082235001001Ybjo.pdf"
+	},
+	"CON7324": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498574555090001Be6V/PF/twelveWaysToMakeCodeSuckLess_1507082220204001RRlF.pdf"
+	},
+	"CON7320": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1498573747781001kQIG/PF/java8ProgrammingIdioms_1507082174646001OZIX.pdf"
+	},
+	"CON7205": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1497776110080001uaIr/PF/Developer Advocate Amotivational Syndrome_1503686443638001Xwfg.pdf"
+	},
+	"HOL4286": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493075813268001XGnx/PF/3 Database Actions with Java 9 Stream Syntax Instead of SQL_15072185983500012EKY.pptx"
+	},
+	"HOL4906": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493419933040001nRDJ/PF/HOL4906_HowtoReplicateDataintheCloudinRealTime_1506526085781001t6f5.pptx"
+	},
+	"BOF2830": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492845239226001AosI/PF/Deep Learning And Image Recognition for Java Developers_1507041381875001PZfO.pdf"
+	},
+	"BOF2805": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492827559810001TIT5/PF/JavaOne2017-BOF2805-open-source_1506628234959001KyO6.pdf"
+	},
+	"TUT2221": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492712048741001kFVu/PF/Free-your-lambdas_1507042419602001c8ys.pdf"
+	},
+	"TUT2383": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492764737203001085Z/PF/MiocroservicesWithTerraformDocker-JavaOne-2017-10-02_1506332960871001Cg8z.pdf"
+	},
+	"TUT2998": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492891282691001gpJo/PF/Rapid Development Tools for Java EE 8 [TUT2998]_1507164796086001YkhQ.pdf"
+	},
+	"BOF6111": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14941873545840015sEh/PF/BOF6111 - How to Tame a Tweetwall_1507011862430001PD4K.pdf"
+	},
+	"BOF6321": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495928445991001N55K/PF/JavaOne San Francisco October 2017_1507133737479001BThZ.pdf"
+	},
+	"BOF6372": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14961032920200014TU6/PF/msa-bof_1502493001542001hf4e.pdf"
+	},
+	"BOF3906": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493044082147001AyP0/PF/netBeans Days 2017_15069080527220018h9h.pdf"
+	},
+	"BOF3305": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492977062578001TdWh/PF/JavaOne Secret of developing High Performance WebSite, with No budget_1506959671037001Akf2.pptx"
+	},
+	"BOF3048": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492902046759001grXb/PF/2017-10-02 BoF Type Annotations @ JavaOne_1507012813833001P9vw.pdf"
+	},
+	"HOL7972": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1504873445916001kPFq/PF/HOL7972_IBMCloudPrivate_1507044824601001WSOA.pdf"
+	},
+	"HOL7960": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1504735132067001aXMp/PF/Eric Docker 101 Workshop - JavaOne 2017_1507059814018001PM4r.pdf"
+	},
+	"HOL7896": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1504101843284001eyBI/PF/JavaOne_Why_Reactive_1507060963241001zChl.pdf"
+	},
+	"BOF1415": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491849007966001S80B/PF/Apache Maven BOF_1505045753105001u1oI.zip"
+	},
+	"BOF1594": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492107796229001S0CZ/PF/J12017SparkStreaming_1507037845562001W1V3.pptx"
+	},
+	"BOF1254": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491398239137001p7Zk/PF/JavaOne 2017 - RealWorldFXApps_1507132580645001YXPI.pdf"
+	},
+	"BOF1577": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14920915134060015aBG/PF/JavaOne2017_1506024226890001MnB2.key"
+	},
+	"BOF1337": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491565492991001AHdD/PF/Big-data-processing-with-Spark-scala-or-java-final_1506992706608001WmOe.pptx"
+	},
+	"BOF1845": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492513215372001dkhN/PF/From VMs to Containers- Decompose and Migrate Old Legacy Java EE Applications - JavaOne session_1507080513008001YCZK.pdf"
+	},
+	"CON4277": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493075051652001XLes/PF/4 Java_One_Micro_Service_Patterns_1507218537683001zTqX.pptx"
+	},
+	"CON4247": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493071692263001bVeJ/PF/201710_Sadowski_JavaOne_final_1507217562051001Yn6v.pdf"
+	},
+	"CON4165": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493063597635001TwRo/PF/cf_15072205247630012ZJr.pdf"
+	},
+	"CON4577": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493271659656001T9HN/PF/g1-gc-concepts-and-tuning_15072224316660012u0z.pdf"
+	},
+	"CON4604": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493298714409001DyGD/PF/J1-2017-CON4604_1506958280121001O8o0.pdf"
+	},
+	"CON4986": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493541586641001sWBb/PF/Streams.Good.Bad.Ugly-JavaOne_1507042588585001Nsxo.pptx"
+	},
+	"CON4400": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493105420186001KISK/PF/CON4400 - Breaking up the Monolith with Jigsaw_1507011968142001ZYPL.pdf"
+	},
+	"CON4285": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493075602649001AVvm/PF/1 BridgingTheGapBetweenDatabaseAndStream_1507003091183001NTEY.pptx"
+	},
+	"CON4588": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493283952943001GXSJ/PF/JavaOne 2017_1507171563917001zPvh.pdf"
+	},
+	"CON4293": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493076220192001gVLO/PF/2 Java 9 Search 9 TB in 0.9 Microseconds v2_1507218640017001ztWW.pptx"
+	},
+	"CON4662": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493322921290001OicX/PF/CON4662 JavaCard-20YearsofSecurityInnovationV1.1_1507095444215001OKJB.pdf"
+	},
+	"CON4529": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493239884465001wURj/PF/CON4529 - JDK 9 Hidden gems_1507152691954001xykg.pdf"
+	},
+	"CON4104": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493058873732001Taqt/PF/JavaOne 2017 JavaScript on the JVM Michel Trudeau v5_15070943150140012JNE.pdf"
+	},
+	"CON4027": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493053231517001X9lE/PF/art-of-performance-tuning_15072175948830012pSL.zip"
+	},
+	"CON4083": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493056998797001XHOI/PF/TomaszNurkiewicz_1507118959902001x5dg.pdf"
+	},
+	"CON4805": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493396501092001Pgsu/PF/Bringing Apache Cassandra to JDK 9-final_1507050885556001Phty.pptx"
+	},
+	"CON4052": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493054732447001bY8w/PF/javaone-marlin-talk_1507132140815001B9Fs.pdf"
+	},
+	"CON4069": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493055829806001X2ud/PF/TroubleshootingTools_15072224011450012ens.pdf"
+	},
+	"CON4333": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493085198441001TYcb/PF/JavaOne 2017 - Protecting Microservices - Best Practices and Strategies_1507158733437001Otq9.pdf"
+	},
+	"CON4643": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493318295907001D56Y/PF/CON4643_Securing_the_IoT_edge_with_JavaCard_1506996488522001ZM0t.pdf"
+	},
+	"CON4974": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14935138910720018zxL/PF/CON4974 - Writing Best-in-Class Web Apps in Java_15071475132800012wG0.pdf"
+	},
+	"CON3755": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493029557147001gcDV/PF/Java One 5 Pillars_1507216865673001xCwC.pdf"
+	},
+	"CON3843": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493038858277001bR8l/PF/JavaOne-TeaVM_1506865394711001G4Wb.pptx"
+	},
+	"CON3423": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492995937735001bRQk/PF/exploring-java-9-with-repl_1507084352491001BBMH.pdf"
+	},
+	"CON3329": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492979256692001TIKv/PF/It's Good to Have (JVM) Options - JavaOne - v1.1_1507042257123001zfmo.pdf"
+	},
+	"CON3969": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493047916809001TFFv/PF/JShell2017J1B_1507176571672001xFwN.pptx"
+	},
+	"CON3544": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493006037440001A9eg/PF/CON3544_Ivar_Grimstad_1507070651921001xIPy.pdf"
+	},
+	"CON3730": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493026668006001AHG4/PF/JumpStartJavaEE_1507163077031001YqN4.pdf"
+	},
+	"CON3041": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492901209722001gZCK/PF/OfflineFirst-J1_1507147520304001xq8y.pdf"
+	},
+	"CON3214": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492963227558001g8HG/PF/JavaOne 2017_1507144618018001BcIs.pdf"
+	},
+	"CON3653": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493016144841001bGDz/PF/Redux with JavaFX_1507151313254001RVCK.pdf"
+	},
+	"CON3718": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493024412235001bOPJ/PF/J12017_generator_15070930278120012sxV.pptx"
+	},
+	"CON3816": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493036930605001g1CS/PF/JavaOne SF 2017 - The hitchhiker’s guide to Java class reloading_1507184956983001Y5sf.pdf"
+	},
+	"CON3825": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493037972026001AKtP/PF/TroubleshootingMemoryProblems_1507222355535001OiWx.pdf"
+	},
+	"CON3625": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493014180993001TviD/PF/J1-17_CON3625_JAXRS21_1507124756414001RMHA.pdf"
+	},
+	"CON3282": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492974963716001XF36/PF/JavaOne 2017 - Revisiting Code Generation with APT in JDK 9 V2 - Shareable_1507215477752001YUOu.pptx"
+	},
+	"CON3381": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492988116947001XWDK/PF/Kotlin EE – Boost your Productivity @ JavaOne17_1507168235273001zB4x.pdf"
+	},
+	"CON3434": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492997038106001Tjf2/PF/TornadoFX_1506602984372001ywq7.pptx"
+	},
+	"CON3636": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493014764111001bkNY/PF/Eisele_Architecting for failure_15071348858740012eOV.pdf"
+	},
+	"CON3496": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493002154429001Al3r/PF/20171001 - Be pragmatic_1506795935911001rDny.pdf"
+	},
+	"CON3194": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492960088073001XxCn/PF/kafka-cdi_1507217391460001x9iQ.pptx"
+	},
+	"CON3852": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493039382404001AZGB/PF/Streams.Good.Bad.Ugly-JavaOne_1507042614396001WqeW.pptx"
+	},
+	"CON3826": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493037974102001bqZg/PF/JavaFX 101_1507132702174001xABn.pdf"
+	},
+	"CON3171": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492953612491001bk1t/PF/Polyglot-Adventures-for-Modern-Java-Developers_1507083169612001xYLJ.pdf"
+	},
+	"CON5042": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493576854104001fk3j/PF/BigDataonBigMaps_1507135503120001YaRc.pptx"
+	},
+	"CON5762": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493709593093001s3s6/PF/20170929 Collaborative Cloud-Based Virtual Reality for Scientific Education and Research_1507052963130001z6R9.pdf"
+	},
+	"CON5040": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493576371795001fyL9/PF/Java ME From Prototype to Product_1507170928679001zsNB.pdf"
+	},
+	"CON5037": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14935747126800018I39/PF/Building Microservices With Kotlin - JavaOne Final_1507149837058001Rdch.pdf"
+	},
+	"CON5074": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493588968117001sBhW/PF/javaone-2017-eventsourcing_1506753763649001qfwZ.pdf"
+	},
+	"CON5034": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14935733103460018Byr/PF/Apache Groovy language influences -- Guillaume Laforge -- JavaOne 2017_15071630350730012kzO.pdf"
+	},
+	"CON5001": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493551139638001sm7Y/PF/JavaOne SF 2017 - IntelliJ IDEA Tips & Tricks_1507185203444001RnNG.pdf"
+	},
+	"CON5645": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493698333458001fasf/PF/Bioinformatics_1507069999463001YQsc.ppt"
+	},
+	"CON5578": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14936933539610018gKw/PF/heavyweight_or_lightweight_15071398689090012fxB.pdf"
+	},
+	"CON5252": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493660608528001fHDq/PF/microservices_simplification_1507053580671001cnvd.pdf"
+	},
+	"CON5954": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493997016786001TGxl/PF/JavaOne 2017 CON5954 Modern Application and Microservices Security from EE6 JASPIC to the EE8 Security API Moscone West Room 2024 Tues 03 Oct 2017_1507055453740001NsNJ.pptx"
+	},
+	"CON5795": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14937516632680017jiR/PF/jdk9clientmigrationv2_1507058551721001NHLn.pdf"
+	},
+	"CON5139": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493616535085001feeH/PF/JavaOne-NeverChangeStateAndStillGetThingsDone-final_1507133088043001O8Zv.pdf"
+	},
+	"CON5360": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493669225551001ffiE/PF/SpinnakerOOW_15071674853080012PBX.pptx"
+	},
+	"CON5567": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493691908434001fFeN/PF/javaeestic_hmtl5_1507139823748001RrcA.pdf"
+	},
+	"CON5989": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494010583919001ThXf/PF/Twitter's quest for a wholly Graal runtime_1506958185577001qGfP.pdf"
+	},
+	"CON5024": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1493565801012001skbG/PF/oow17_Visualizing_Air_Traffic_Data_1506009717703001FTbd.pptx"
+	},
+	"CON2992": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492890329430001T303/PF/max-incremental_1507215522007001OJG9.pdf"
+	},
+	"CON2481": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149278221065100109Je/PF/JavaOne2017-Vortrag-Ehrke_V01-20170928_1507126906947001xQA8.pdf"
+	},
+	"CON2801": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492825985264001TGrf/PF/whats-new-in-gradle-40_1507173071393001xYPs.pdf"
+	},
+	"CON2486": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492782291675001ZXJk/PF/A competitive food retail architecture with microservices (3)_1507152016468001Yobp.pdf"
+	},
+	"CON2549": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492788170010001ZtiW/PF/J117_Bike_CON2549_Pub_15071418126340012Ydy.pdf"
+	},
+	"CON2702": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492808911209001TYRA/PF/J1_2017-jdk9-lang-tools-libs_1507068593713001RN8r.pdf"
+	},
+	"CON2854": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492860963413001TM0u/PF/kafka-ux_1507092341372001Yq2u.pptx"
+	},
+	"CON2361": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492761196272001agpi/PF/Web application security for developers_1507146161773001ODLA.pdf"
+	},
+	"CON2169": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149270125396600104bj/PF/kotlin_1507094087224001RxT3.pdf"
+	},
+	"CON2902": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492877133023001TnDE/PF/javaone-2017-java-code-inspection-and-testing-tools_1507149190014001OrA8.pdf"
+	},
+	"CON2097": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492652353072001aY2P/PF/Philly JUG JavaOne 2017_1506898622666001AS2d.pdf"
+	},
+	"CON2930": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492880865215001bL6P/PF/thinkingstrategicallyaboutiot_1507164131610001Y9YI.pdf"
+	},
+	"CON2111": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492680359825001ZaUW/PF/Use Voice Recognition with Alexa to Control Your Home_1507218703980001xMdS.pdf"
+	},
+	"CON2276": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/149272862410800103Tl/PF/King_BlockchainWhatIsBlockchain_1507212498701001OUxD.pdf"
+	},
+	"CON2996": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492891056468001XBmU/PF/jigsaw_1507215365989001ze2d.pdf"
+	},
+	"CON2552": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492788410596001a7na/PF/Design Patterns in Java 8_1507143046942001B0tp.pdf"
+	},
+	"CON2678": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492806379921001b2Oc/PF/Get Hip with JHipster - JavaOne 2017_15071371245740012qtm.pdf"
+	},
+	"CON2120": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492684372345001kNau/PF/How We Started Our First Java Conference JVMCON_1507070422056001Rqhh.pdf"
+	},
+	"CON2895": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492875465882001gFut/PF/LambdaChops_1507151795324001RSt9.pdf"
+	},
+	"CON2558": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492788716507001aEyW/PF/Parallel Streams, CompletableFutures, and All That_1506980070913001inFH.pdf"
+	},
+	"CON2979": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492886435796001A0mC/PF/Project_Jigsaw_Integration_with_Tools_15070975531290012ZPe.pptx"
+	},
+	"CON2526": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492785911104001ZSfz/PF/WFSwarmKafka_JavaOne2017_1507065965282001Wjyh.pdf"
+	},
+	"CON2367": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492762485309001ZHRk/PF/2017-J1-Vaadin-NetBeans-Presentation_1506913084838001ilrI.pdf"
+	},
+	"CON2034": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492622954450001dDCe/PF/HTML-Backlog_1507000672426001Nwre.pptx"
+	},
+	"CON2294": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14927356066830010VDw/PF/JavaOne - The Secret Sauce of Successful Teams_1507046571859001ZsIb.pdf"
+	},
+	"CON1392": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491763079365001tUnP/PF/ncomet-javaone2017-bytebuddy_1506897975810001iH68.pdf"
+	},
+	"CON1403": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491828431976001tnuB/PF/Hacking-into-Oracle-Database-with-SQL-injection_1507162884140001B4j9.pdf"
+	},
+	"CON1491": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491948952321001dm4m/PF/JavaOne 17 - CON1491_1506954898905001IipH.pdf"
+	},
+	"CON1343": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491573678378001ABz2/PF/CON1343_1506017521982001FAVx.pdf"
+	},
+	"CON1188": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14911727986280014Wjn/PF/JavaOne17JShellHakanOzlerRahmanUsta_1507077202622001x8WP.pdf"
+	},
+	"CON1184": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491151895479001K2gt/PF/LazyJava_1506494875938001GZ5x.pdf"
+	},
+	"CON1687": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492346260702001YPux/PF/JavaOne_1506982455474001AfpD.pdf"
+	},
+	"CON1915": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492546120123001bkif/PF/Streams-in-the-wild_1507214064329001zNr6.pdf"
+	},
+	"CON1851": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492515839907001F0ry/PF/The reactive landscape_1507191401874001RJgz.pdf"
+	},
+	"CON1829": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492501415787001bsMc/PF/Alon Muchnick - building dsl with scala V2_1500384864474001f1uT.pptx"
+	},
+	"CON1242": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491330049850001WJxC/PF/Making RESTful Web Services the Easy Way with Node.js_1507080244150001xeLJ.pdf"
+	},
+	"CON1694": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492357813425001YRQq/PF/2017-JavaOne-Mutation-Testing_1506302240492001jvI5.ppt"
+	},
+	"CON1191": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491198833720001KwJc/PF/2017_10_JavaOne_Kafka_Streams_TensorFlow_H2O___Kai_Waehner_Confluent_1507068454765001Bjr8.pdf"
+	},
+	"CON1512": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14920096193940013cH0/PF/keeping_your_data_sane_with_bean_validation_2_0_gunnar_morling_javaone_2017_15072185393170012kqZ.pdf"
+	},
+	"CON1374": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491652982235001MdY8/PF/Apache Maven and its impact on java 9_1506698961565001EKOA.pptx"
+	},
+	"CON1741": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492441295444001bBJh/PF/Refactoring Design Patterns the Functional Way (in Scala) 5.0_15071201172980012tnG.pdf"
+	},
+	"CON1615": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492138227985001CBtS/PF/J1_2017_JVM_JDBC_Security_Policy_1507005389312001zUdO.pdf"
+	},
+	"CON1621": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492157530886001SU1A/PF/Serverless_JavaOne_1507221474987001OBxe.pdf"
+	},
+	"CON1673": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492323705463001YKFt/PF/CON1673_Purushothaman_1506958317539001AuTP.pptx"
+	},
+	"CON1185": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491153702783001K2K8/PF/CON1185_Ivar_Grimstad_1507070624555001OUHL.pdf"
+	},
+	"CON1928": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492564276546001FSxS/PF/portlet3-deep-dive_1507182634149001x0Lz.pdf"
+	},
+	"CON1330": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491553150494001Z3KJ/PF/2017 JavaOne - Scale Up with Lock-Free Algorithms_1507143337858001OASw.pdf"
+	},
+	"CON1662": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14922379128840013EgS/PF/con1662_1506798320496001L0Gp.pptx"
+	},
+	"CON1439": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491906267721001Mxye/PF/J1 Container 2.0 - 10%2F05%2F17 (1)_1506340300905001jjk7.pdf"
+	},
+	"CON1269": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1491405994585001pR0x/PF/2017 JavaOne - Coroutines on JVM with Kotlin_1507143361785001Yf5T.pdf"
+	},
+	"CON1531": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492033448893001dyzY/PF/Demystifying_Microservices_for_Java_EE_Developers_1507215131131001ztcO.pdf"
+	},
+	"CON1714": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492394106188001bcbW/PF/End-to-end Kotlin in a Java Enterprise_1506957546604001Oig2.pdf"
+	},
+	"CON1708": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492381871412001FnW4/PF/rs2_1502492860076001tg1X.pdf"
+	},
+	"CON1622": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492158524778001CuIB/PF/JavaEE_PostModernism_JavaOne_1507220922611001OhpF.pdf"
+	},
+	"CON1602": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1492114251697001CJ3b/PF/JavaOne_2017_1506977800868001IvAb.pdf"
+	},
+	"CON6182": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494302754146001OwtG/PF/DeliveringBetterCodeFasterWithSpock_CON6182_v2.2_1507149146254001R5Vr.pdf"
+	},
+	"CON6063": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14940673784130015zSD/PF/java-vs-javascript_1507091361416001z7ZP.pdf"
+	},
+	"CON6160": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14942518320930015Ry8/PF/NetbeansMeetsFedora_1506394995999001PFYN.pdf"
+	},
+	"CON6108": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494180295603001UAyV/PF/JavaOne_Take2_1506957553883001qgqe.pdf"
+	},
+	"CON6104": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494175084313001Titn/PF/How_to_use_java_crypto_api_securely_150715520538300123NV.key"
+	},
+	"CON6269": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495219070020001yZuY/PF/NetbeansMeetsFedora_1506395009712001tXbe.pdf"
+	},
+	"CON6069": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494082615410001T3OT/PF/j1-thermostat-16x9_1507162851659001RwLb.pdf"
+	},
+	"CON6008": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14940155799020015ajE/PF/OOW17 Operationalizing Machine Learning into “Predictive” Enterprise Applications_1506796233006001rwlk.pdf"
+	},
+	"CON6472": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496697013696001itp1/PF/GraalVM OOW_150722126950200128Dk.pptx"
+	},
+	"CON6501": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496769213248001magT/PF/JavaOne2017_Road_to_Contributing_by_Developing_Tool_1506968548791001iClB.pdf"
+	},
+	"CON6184": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494313579206001gYCU/PF/Delivering Developer Tools at Scale - JavaOne 2017_1507014069447001c5Cs.pptx"
+	},
+	"CON6308": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495686539100001MWP9/PF/Developer Relations - are we there yet__1506572131685001adjq.pdf"
+	},
+	"CON6061": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/14940625551550015c5u/PF/g1-in-jdk9-17_1507222448609001Ym56.pdf"
+	},
+	"CON6156": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494243076732001TnaI/PF/Kafka-Scalable-Stream-Processing-and-More-V1.0_1507015083942001zUcp.pdf"
+	},
+	"CON6091": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494154650032001UGQ3/PF/Boost your Java IDE with Kubernetes_1507164737277001x3ND.pdf"
+	},
+	"CON6307": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1495672891211001MdXW/PF/DevRel for Skeptics JavaOne_15069146448940016iWw.pptx"
+	},
+	"CON6086": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1494140618217001TBPJ/PF/CON6086 - Groovy Support in Apache NetBeans_1507012006626001NncB.pdf"
+	},
+	"CON6508": {
+		"url": "https://static.rainfocus.com/oracle/oow17/sess/1496783060228001x48l/PF/DevRel Strategy_15069782796300016JaE.pdf"
+	}
+}

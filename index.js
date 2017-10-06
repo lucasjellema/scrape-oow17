@@ -1,5 +1,7 @@
 var request = require("request");
 var fs = require("fs");
+var tweet = require("./tweet");
+
 // this options object is constructed based on the network calls the web application at https://events.rainfocus.com/catalog/oracle/oow17/catalogoow17 is making to its backend API
 var options = {
   method: 'POST',
@@ -20,6 +22,8 @@ var options = {
     rfApiProfileId: 'lwEkJf6GCYTu72vvGPhIOtMGDYl3xTeT'
   }
 };
+
+
 
 // delay between requests
 var requestdelay = 500;

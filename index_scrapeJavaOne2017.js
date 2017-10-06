@@ -17,7 +17,7 @@ var options = {
     rfwidgetid: 'G6NDVS8kqg2mmqMSFkCslHAqLXf0t56C'
   },
   form: { search: '', showEnrolled: 'false', type: 'session' }
-};
+};  
 
 // delay between requests
 var requestdelay = 500;
