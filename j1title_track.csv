@@ -1,0 +1,1090 @@
+title,track
+Preventing Errors Before They Happen,Java Development Tools
+Techniques for Getting More Kids; Especially Girls; Involved in STEAM,Java Community
+Move Data Between Apache Hadoop and Oracle Database for Customer 360-Degree Analytics,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet the Oracle JavaFX and JDK Client Team,Java Clients and User Interfaces
+HarfBuzz: Modern OpenType Layout Comes to JDK 9 (JEP 258),Java Clients and User Interfaces
+JUnit 5,Core Java Platform
+Blockchain Introduction for Developers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Machine Learning Applied to Regulatory Technology,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Goin’ Mobile: Developing JavaFX Apps for iOS and Android with Java 9,Java Clients and User Interfaces
+Changes to the JDK Release Model,Core Java Platform
+Five Killer Tricks to Make Your Java Web App Look Awesome,Developer Community Day: Community
+Learn the Concepts Behind Those 10 Java Challenges and Eliminate Stressful Bugs,Developer Community Day: Community
+JGrounds: Playgrounds App for Java,Java Development Tools
+Autonomous Driving and Factory Automation: JSR 282 Brings Java to New Domains,Java and Devices
+The Legacy Developer’s Guide to Java 9,Java Development Tools
+Distinguish Pop Music from Heavy Metal with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Be Accepted to Speak at a Conference,Java Community
+Microservices Mishaps,Java Development Tools
+Securing Your Java Application: Is SecurityManager the Answer?,Core Java Platform
+JSF 2.3 in Action,Java; Cloud; and Server-Side Development
+Java; Pi’s; and Flying Sharks: Or How to Create a Java Airship in <127 Grams,Java and Devices
+TomTom Cloud Healer: Cloud-Agnostic Self-Managed Instance Recycling for Java,Java; Cloud; and Server-Side Development
+Deep Learning and Image Recognition for Java Developers,Java Development Tools
+How to Run a Successful Open Source Java EE Project,Java; Cloud; and Server-Side Development
+Meet the JCP and Java Standards Leaders,Java Community
+Database Actions with Java 9 Stream Syntax Instead of SQL,Java Development Tools
+Machine Learning Exposed: Workshop,Java and Devices
+DevOps and Cloud-Native Microservices Workshop with MySQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Replicate Data in the Cloud in Real Time,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Apache Maven BOF,Java Development Tools
+Introduction to Spark Streaming for Real-Time Data Analysis,Java; Cloud; and Server-Side Development
+JavaFX Real-World Applications: Reloaded,Java Clients and User Interfaces
+Modernizing an Enterprise Application with JavaFX 8,Java Clients and User Interfaces
+Big Data Processing with Apache Spark: Scala or Java?,Java; Cloud; and Server-Side Development
+Confessions of a Java Educator: 10 Java Insights I Wish I’d Had Earlier,Core Java Platform
+DevOps: State of the Union,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From VMs to Containers: Decompose and Migrate Old Legacy Java EE Applications,Java; Cloud; and Server-Side Development
+Automated Functional Web Testing on the JVM with Geb,Java; Cloud; and Server-Side Development
+How to Write and Ship Better Code with the Apache NetBeans IDE,Java Development Tools
+No More Duplicate Transactions: A Java API for At-Most-Once COMMIT,Java; Cloud; and Server-Side Development
+Herding Cats: Harvard Dataverse’s Approach to Technical Community Management,Java; Cloud; and Server-Side Development
+Modules Are Coming...to Libraries??,Core Java Platform
+The Secret of Developing a High-Performance Website with No Budget,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE: Revolutionizing Design Pattern Use,Java; Cloud; and Server-Side Development
+MVC 1.0: Community Involvement Matters!,Java; Cloud; and Server-Side Development
+OpenJDK Ins and Outs,Core Java Platform
+Using Type Annotations to Improve Your Code,Core Java Platform
+How to Tame a Tweetwall,Java Clients and User Interfaces
+Kubernetes BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Maintenance: The Silent Killer,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Power of Java Technologies,Core Java Platform
+CDI Ecosystem,Java; Cloud; and Server-Side Development
+Microservices BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java Council: Live Podcast,Core Java Platform
+Building Cloud-Native Applications with IBM Cloud Private,Java; Cloud; and Server-Side Development
+Get Your Hands Dirty with Oracle JavaScript Extension Toolkit,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Serverless @ Oracle,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Create and Deploy Java Microservices with MicroProfile and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Build Your First Chatbot and Learn How to Use Conversational UI,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Docker 101,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Get Started on Oracle Cloud - Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Introduction to Reactive Systems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Test; Deploy; Operate: A Four-Step Docker; Kubernetes; Java Tutorial,Java; Cloud; and Server-Side Development
+Docker; Kubernetes; and OpenShift for Java Developers,Java; Cloud; and Server-Side Development
+Get Started on Oracle Cloud: Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE 7 with Apache Spark for the World’s Largest Credit Card Core Systems,Java; Cloud; and Server-Side Development
+Java; Machine Learning; and Healthcare: How Developers Can Make a Difference,Java and Devices
+JUnit5: Features; Architecture; and Extensibility—Part 2,Java Development Tools
+The Top 10 Dos and Don'ts of JSON Processing in a Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Three Microservice Patterns to Tear Down Your Monoliths,Java; Cloud; and Server-Side Development
+Transforming IoT with Voice UI;  Java; AI; and the Cloud,Java and Devices
+Tuning G1 for Real-World Applications,Core Java Platform
+Asynchronous API with CompletableFuture: Performance Tips and Tricks,Core Java Platform
+Enterprise Cross-Platform Mobile Applications with Gluon,Developer Community Day: NetBeans
+G1GC Concepts and Performance Tuning,Core Java Platform
+Ground Systems for the NASA James Webb Space Telescope Using the Java Platform,Java Clients and User Interfaces
+Making the JDK More Secure,Core Java Platform
+Streams in JDK 8: The Good; the Bad; and the Ugly,Core Java Platform
+The Diabolical Developer’s Guide to Surviving Java 9,Core Java Platform
+Breaking up the Monolith with Jigsaw: An Architect’s View,Developer Community Day: NetBeans
+Bridging the Gap Between Database and Stream,Java Development Tools
+Build; Test; and Deliver Code Faster with Containers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Continuous Code Quality with SonarQube and SonarLint,Java Development Tools
+Fun Things to Do with Nashorn in Java 9,Emerging Languages
+How to Speed Up 150K Functional Tests in a 17-Year-Old Codebase,Java Development Tools
+Java 9: Search 9 TB in 0.9 Microseconds,Java Development Tools
+Java Card: 20 Years of Security Innovation,Java and Devices
+JDK 9 Hidden Gems,Core Java Platform
+JNoSQL: The Definitive Solution for Java and NoSQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Nashorn: What’s New in JDK 9,Emerging Languages
+Need-to-Know Patterns for Building Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Quantum Computing Exposed: The Fundamentals,Emerging Languages
+The Art of Performance Tuning,Java Development Tools
+Analyzing Streaming Video with Apache Spark,Java; Cloud; and Server-Side Development
+Asynchronous by Default; Synchronous When Necessary,Java; Cloud; and Server-Side Development
+Bringing Apache Cassandra to JDK 9,Core Java Platform
+Docker Tips and Tricks for Java Developers,Java; Cloud; and Server-Side Development
+Java Best Practices for Developing and Deploying Against Databases in the Cloud,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java in a World of Containers,Java; Cloud; and Server-Side Development
+Java LangSec: New Security Enhancements in Java 9,Core Java Platform
+Java Secure Coding Guidelines,Core Java Platform
+Marlin; a JDK9 Success Story: Vector Graphics on Steroids for Java 2D and JavaFX,Java Clients and User Interfaces
+Monitoring and Troubleshooting Tools Available in Your Java 9 “bin” Folder,Core Java Platform
+Protecting Java Microservices: Practices and Strategies,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Secrets of Building a Debuggable Runtime,Emerging Languages
+Securing the IoT Edge with Java Card,Java and Devices
+Vectors with Values on the JVM,Core Java Platform
+Writing Best-in-Class Web Apps in Java,Java Clients and User Interfaces
+Big Data on Big Maps:  Displaying Vast Amounts of Geospatial Data,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Building Mobile Apps with Gluon and JavaFX,Java Clients and User Interfaces
+Build Web; Mobile; and Desktop Applications with Oracle JET; Oracle Cloud; and Electron,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Collaborative Cloud-Based Virtual Reality for Scientific Education and Research,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Graal VM: High-Performance Polyglot Runtime ,Emerging Languages
+Java ME for IoT: From Prototype to Product,Java and Devices
+Java PaaS: Then; Now; and Next,Java; Cloud; and Server-Side Development
+Next-Gen Visual Programming and 3D Modeling in the Cloud,Java Clients and User Interfaces
+Putting a Vulcan Nerve Pinch on Java Tests,Java Development Tools
+Rapid Node.js Development with NetBeans,Developer Community Day: NetBeans
+Why Bother with Kotlin,Emerging Languages
+Why You’re Going to <i>Fail</i> Running Java on Docker!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+12 Factors for Cloud Success,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Debug; and Deploy Your First Chatbot,Java; Cloud; and Server-Side Development
+Developing Microservices with Kotlin,Emerging Languages
+Event Sourcing with JVM Languages,Developer Community Day: Community
+Getting Started with Spark,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How Languages Influence Each Other: Reflections on 14 Years of Apache Groovy,Emerging Languages
+IntelliJ IDEA Tips and Tricks,Java Development Tools
+JavaScript: Does It Make Sense In Large Web and Mobile Apps?,Emerging Languages
+Optimizing Wind Farms with Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Pattern Matching the Genome at Scale with Docker and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+SODA: An Open Source NoSQL-Style JSON Document API for Relational Databases,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build Happiness: Using Gradle to Build Better Software,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Clouds; Functions; Density; and Compute,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Extreme GUI Makeover 2017,Java Clients and User Interfaces
+Java at Speed: Getting the Most Out of Modern Hardware,Core Java Platform
+Java Desktop in the Wild for Science and Analysis,Java Clients and User Interfaces
+Java EE: Heavyweight or Lightweight—Mythbusters,Java; Cloud; and Server-Side Development
+Microservices and Cloud-Driven Code Simplification,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern Application and Microservices Security from EE6 JASPIC to the EE8 Security API,Java; Cloud; and Server-Side Development
+Understanding Java Garbage Collection,Core Java Platform
+Updating Your Java Client Desktop and JavaFX Applications for JDK 9,Java Clients and User Interfaces
+Against All Odds: Solving the Interoperability Puzzle in the Smart Home,Java and Devices
+Collections Refueled,Core Java Platform
+DevOps; Continuous Delivery; and Deployment at a Hyper Scale ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Never Change State; and Still Get Things Done,Emerging Languages
+Optional: The Mother of All Bike Sheds,Core Java Platform
+Platform Compatibility and Upgradability: The Untold Cloud Story   ,Emerging Languages
+Spinnaker; Kubernetes; and Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java EE-stic (=No Dependencies) Way to Develop HTML5 Applications,Java Clients and User Interfaces
+Twitter’s Quest for a Wholly Graal Runtime,Core Java Platform
+Visualizing Aircraft Data: Oracle IoT Cloud Service; Raspberry Pi; and Radio Surveillance,Java and Devices
+5 Pillars of a Successful Java Web Application,Developer Community Day: User Groups
+Compiling Java to JavaScript: How to Replace Applets Without the Plugin,Emerging Languages
+Everything You Wanted to Know About  JIT Compilation but Were Afraid to Ask,Core Java Platform
+Exploring Java 9 with REPL,Core Java Platform
+How to Get a Raspberry Pi Brain to Play Minecraft,Java and Devices
+Introduction to Machine Learning with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+It’s Good to Have (JVM) Options,Core Java Platform
+JShell: An Interactive Shell for the Java Platform,Java Development Tools
+JSR 375: New Security APIs for Java EE,Java; Cloud; and Server-Side Development
+Jump-start Your Microservices Development with Java EE,Java; Cloud; and Server-Side Development
+Leaner; Faster Code with Advanced SQL Techniques,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Learn: Microservice Wizardry with Dropwizard,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern JavaScript Server Stack,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Offline-First Design and Web Components in Java,Java Clients and User Interfaces
+Reactive Microservices with JRuby and Docker,Emerging Languages
+Redux with JavaFX,Java Clients and User Interfaces
+Secure Data Management for Java Gateway Devices on the Edge,Java and Devices
+Show and Tell: JavaScript Generator Patterns and New Use Cases,Emerging Languages
+Teaching Kids to Program in Java with Greenfoot: Visual; Interactive; Motivating,Java Community
+The Hitchhiker’s Guide to Java Class Reloading,Java Development Tools
+Troubleshooting Memory Problems in Java Applications,Core Java Platform
+What’s New in JAX-RS 2.1?,Java; Cloud; and Server-Side Development
+55 New Features In JDK 9,Core Java Platform
+Amazon Alexa Skills Versus Google Home Actions: The Big Java VUI Face-off,Java and Devices
+Are You Feeling Lucky? Casino Games; IoT; and Java,Java and Devices
+Code Generation with Annotation Processors: State of the Art in Java 9,Core Java Platform
+Complicating Complexity: Algorithm Performance in the New Machine Age,Core Java Platform
+Designing and Visualizing Deep Space Manned Missions and Probe Trajectories,Java Clients and User Interfaces
+Development Horror Stories,Developer Community Day: Community
+DevOps in the Cloud: A Use Case and Best Practices ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Divide; Distribute; and Conquer: Stream Versus Batch,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From Concept to Robotic Overlord with Robo4J,Java and Devices
+Kotlin EE: Boost Your Productivity,Java; Cloud; and Server-Side Development
+Let’s Write Our Own Chip-8 Interpreter!,Emerging Languages
+Make Your CPU Cores Sweat with Parallel Streams,Core Java Platform
+OpenJ9: Under the Hood of the Next Open Source JVM,Core Java Platform
+OpenJDK: How to Join In on All the Fun,Java Community
+Spice Up Your JUG with New Event Formats,Developer Community Day: Community
+Supercharged JavaFX with Kotlin and TornadoFX,Java Clients and User Interfaces
+The Hacker’s Guide to Session Hijacking,Java; Cloud; and Server-Side Development
+Architecting for Failure: Why Are Distributed Systems Hard?,Java; Cloud; and Server-Side Development
+Be Pragmatic,Developer Community Day: Community
+Bring Your Favorite Kafka to Java EE with CDI,Java; Cloud; and Server-Side Development
+Easily Secure Your Front- and Back-End Applications with KeyCloak,Java; Cloud; and Server-Side Development
+Eclipse Che for Java Microservice Developers,Java Development Tools
+Extreme Vetting: Five Open-Source APM Tools and Their Resource Overhead,Java Development Tools
+It’s Java; but Not As We Know It,Core Java Platform
+JavaFX 101,Java Clients and User Interfaces
+Migrating Your GUI from Swing to JavaFX: Lessons from Experience,Java Clients and User Interfaces
+Polyglot Adventures for the Modern Java Developer,Emerging Languages
+ACID Is So Yesterday: Maintaining Data Consistency with Sagas,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Boost Your Skills with Open Source,Developer Community Day: Community
+Building from Minutes to Seconds: Maximizing Incrementality with Gradle,Java Development Tools
+Creating a Connected Home: Live Coding and Demos,Java and Devices
+Designing for Modularity with Java 9,Core Java Platform
+Improving Your Groovy Kung-Fu,Emerging Languages
+Interactive Data Analytics and Visualization with Collaborative Documents,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Servlet 4.0: A New Twist on an Old Favorite,Java; Cloud; and Server-Side Development
+What’s New in Gradle 4.0,Java Development Tools
+A Competitive Food Retail Architecture with Microservices,Java; Cloud; and Server-Side Development
+Contemporary Java Web Applications with JSF 2.3,Java; Cloud; and Server-Side Development
+JAX-RS and CDI Bike the (Reactive) Bridge,Java; Cloud; and Server-Side Development
+JDK 9 Language; Tooling; and Library Features,Core Java Platform
+Machine Learning for Java Developers in 45 Minutes,Java and Devices
+Modular Development with JDK 9,Core Java Platform
+Modules and Services,Core Java Platform
+Real-Time UI with Apache Kafka Streaming Analytics of Fast Data and Server Push,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Web Application Security for Developers: Tooling and Best Practices,Java Development Tools
+User Interface Prototyping with JavaFX Beyond Desktops,Java Clients and User Interfaces
+Ask the OpenJ9 Architects,Core Java Platform
+Building Kotlin Applications at Scale with Gradle,Emerging Languages
+Extremely Typed: Haskell for the JVM,Emerging Languages
+How to Make a Project Java 9–Compatible,Core Java Platform
+Java Code Inspection and Testing Power Tools,Java Development Tools
+Java EE 8: What’s New in the Java EE 8 Release,Java; Cloud; and Server-Side Development
+Java; the JCP; and You,Developer Community Day: Community
+Modularizing Acme Air: A Case Study in Modularizing a Java App,Core Java Platform
+Revitalizing a Mature JUG: Lessons from Philly,Developer Community Day: User Groups
+Thinking Strategically About IoT,Java and Devices
+Use Voice Recognition with Alexa to Control Your Home,Java and Devices
+Analyzing HotSpot Crashes,Core Java Platform
+Blockchain? What Is Blockchain? Why Do I Care?,Emerging Languages
+Building and Testing Java 9 Applications with Gradle,Java Development Tools
+Cloud-Based Test Microservices,Java Development Tools
+Design Patterns in Java 8,Core Java Platform
+Get Hip with JHipster,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How We Started Our First Java Conference: JVMCON,Developer Community Day: Community
+Java Versus Node.js Versus Swift in the Language Performance Olympics,Emerging Languages
+Lambda Chops: Recipes for Simpler; More Expressive Code,Core Java Platform
+Modern Web Apps with HTML5 Web Components; Polymer; Java EE MVC 1.0; and JAX-RS,Java; Cloud; and Server-Side Development
+Open-Sourcing IBM’s J9 Java Virtual Machine,Core Java Platform
+Parallel Streams; CompletableFuture; and All That: Concurrency in Java 8,Core Java Platform
+Project Jigsaw Integration with Tools,Java Development Tools
+Projector Pattern for Efficient Creation of Ambitious User Interfaces,Java Clients and User Interfaces
+Reactive Stream Processing with WildFly Swarm and Apache Kafka,Java; Cloud; and Server-Side Development
+Robots for the Kid in All of Us,Java and Devices
+Single-Page Web Apps in Plain Java with Vaadin,Developer Community Day: NetBeans
+Solving HTML5/JavaScript/REST Backlogs Through Visual Development,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Secret Sauce of Successful Teams,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Byte Buddy: Bytecode Generation Made Easy,Java Development Tools
+How to Hack into Your Oracle Database via Node.js; Using SQL Injection,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java 8: The Good; the Bad; and the Ugly,Core Java Platform
+JDBC Next: A New Asynchronous API for Connecting to a Database,Java; Cloud; and Server-Side Development
+JEDI and JEDI4KiDS: Challenging Minds; Changing Lives.,Developer Community Day: Community
+JShell: The Ultimate Missing Tool ,Java Development Tools
+Lazy Java,Core Java Platform
+Modern Java Recipes,Core Java Platform
+Scala Under the Hood,Emerging Languages
+Streams in the Wild,Core Java Platform
+The Reactive Landscape,Java; Cloud; and Server-Side Development
+Building DSLs with Scala,Emerging Languages
+Choosing a NoSQL API and Database to Avoid Tombstones and Dragons in Game On!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Cloud-Native Java Done Right,Java; Cloud; and Server-Side Development
+Creating RESTful Web Services the Easy Way with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Effective Design of RESTful APIs,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Intro to Mutation Testing in Java,Java Development Tools
+Kafka Streams + TensorFlow + H2O.ai = Highly Scalable Deep Learning,Java; Cloud; and Server-Side Development
+Keeping Your Data Sane with Bean Validation 2.0,Java; Cloud; and Server-Side Development
+Maven and Its Impact on Java 9 Projects,Java Development Tools
+Migrating to Java 9 Modules,Core Java Platform
+Refactoring Design Patterns the Functional Way (in Scala),Emerging Languages
+Security Policy File Best Practices for Your Java/JDBC Modules ,Java; Cloud; and Server-Side Development
+Serverless; the Future of the Cloud?,Java; Cloud; and Server-Side Development
+When Should You Look at GraphQL as an Alternative to REST APIs?,Emerging Languages
+A RESTful Java Framework for Asynchronous High-Speed Ingest,Java; Cloud; and Server-Side Development
+Collections.compare:JDK; Eclipse; Guava; Apache...,Core Java Platform
+Data Science for the Busy Java Developer,Java Development Tools
+MVC 1.0: The @Controller of the Community,Java; Cloud; and Server-Side Development
+One Application to Rule Them All,Java Clients and User Interfaces
+Optimizing Java with Linux Perf,Java Development Tools
+Portable Database Access for JavaScript Applications; Using Java 8 Nashorn,Java; Cloud; and Server-Side Development
+Portlet 3.0 Deep Dive,Java; Cloud; and Server-Side Development
+Scale Up with Lock-Free Algorithms,Core Java Platform
+Services; Assemble! Apply MVP Principles to Create Microservices Without Chaos,Java; Cloud; and Server-Side Development
+Turning Relational Database Tables into Spark Data Sources,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Virtual Reality in Java: Is It Possible?,Java and Devices
+Building Real-time Data in Web Applications with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Choreographing Microservices Through Messaging,Java; Cloud; and Server-Side Development
+Clouds and Containers: Straight Up; What’s the Difference and Why Should I Care?,Java; Cloud; and Server-Side Development
+Container: Check! But What About Persistent Data; Big Data; and Fast Data?!,Java; Cloud; and Server-Side Development
+Coroutines on JVM with Kotlin,Emerging Languages
+Demystifying Microservices for Java EE Developers,Java; Cloud; and Server-Side Development
+End-to-End Kotlin in a Java Enterprise,Emerging Languages
+Going Reactive with Spring 5 and Project Reactor,Java; Cloud; and Server-Side Development
+Java EE Postmodernism,Java; Cloud; and Server-Side Development
+JDK9 Through the Command Line,Java Development Tools
+Managing Consistency; State; and Identity in Distributed Microservices,Java; Cloud; and Server-Side Development
+Modules or Microservices?,Java; Cloud; and Server-Side Development
+Panel: Accelerating the Adoption of Java EE 8 with MicroProfile,Java; Cloud; and Server-Side Development
+Delivering Better Code Faster with Spock,Java Development Tools
+Emerging Languages Bowl 2017: The Growth Spurt Continues,Emerging Languages
+Immutable Collections,Core Java Platform
+Java Versus JavaScript for the Enterprise?,Java Development Tools
+Makers of the Oracle CodeLounge,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet Apache NetBeans,Developer Community Day: NetBeans
+Migrating to Modules,Core Java Platform
+Productive and Effective Development with Spring and Java EE,Java Development Tools
+Shenandoah 2.0: Now That We’ve Gotten the GC Pause Times Under Control; What’s Next?,Core Java Platform
+Super Duke Land,Java Clients and User Interfaces
+What If Everything Were a Database?,Emerging Languages
+You Are Not Cut Out to Be a Java Contractor,Developer Community Day: Community
+You Deserve Great Tools: Play on Gradle and the Midtier Behind linkedin.com,Emerging Languages
+Ask the JDK Architects,Core Java Platform
+Deconstructing and Evolving REST Security,Java; Cloud; and Server-Side Development
+How to Use Java Cryptography API Securely ,Core Java Platform
+JavaScript Libraries: Which Ones for Your Project?,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java Test Automation for REST; Web; and Mobile,Java Development Tools
+Monitoring JVMs in the Cloud with Thermostat,Java Development Tools
+Operationalizing Machine Learning into “Predictive” Enterprise Applications,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Performance Pipeline and Java Performance Tools,Java Development Tools
+Prepare for JDK 9,Core Java Platform
+Simplifying and Optimizing Your DevOps Development and Deployment with Graal,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Part They Don’t Tell You About Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Road to Contributing to the Java Technology Community by Developing a Tool,Developer Community Day: Community
+Traffic and Performance Analytics and Cloud Bursting with Machine Learning,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+You Deserve Great Tools: Commit-to-Production Automation at LinkedIn,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Delivering Developer Tools at Scale with Swagger and the Open Source Community,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Enterprise JavaScript: What the Heck?!,Emerging Languages
+Feeding Nine Million Java Developers: How and What?,Developer Community Day: Community
+Java Performance Tuning with Free Tools,Developer Community Day: NetBeans
+Measuring DevRel Success: Are We There Yet?,Developer Community Day: Developer Relations
+Modernize Your IT Landscape with API-Driven Architectures,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Remotely Update Java IoT Devices with Eclipse Hawkbit and SWUpdate,Java and Devices
+The G1 GC in JDK 9,Core Java Platform
+The Good Cop/Bad Cop Guide to Java 9,Core Java Platform
+You Deserve Great Tools: Mockito 2 for Cleaner Tests and Enhanced Productivity,Java Development Tools
+Apache Kafka: Scalable Message Processing and More,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+API Deep Dive: Designing Eclipse Collections ,Core Java Platform
+Boost Your Java IDE with Kubernetes,Java Development Tools
+Deus Ex Scala: Finding a Home for Scala in the Corporate Machine,Emerging Languages
+DevRel for Skeptics,Developer Community Day: Developer Relations
+Discover CDI 2.0 in Live Coding,Java; Cloud; and Server-Side Development
+Groovy Support in NetBeans: A State of the Union,Java Development Tools
+Let’s Wing It: A Study in DevRel Strategy,Developer Community Day: Developer Relations
+Modules in One Lesson,Core Java Platform
+Streaming Solutions for Real-Time Problems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Trust Your Pipeline: Automatically Testing an End-to-End Java Application,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Visual JShell: JShell on Steroids,Java Development Tools
+Preventing Errors Before They Happen,Java Development Tools
+Techniques for Getting More Kids; Especially Girls; Involved in STEAM,Java Community
+Move Data Between Apache Hadoop and Oracle Database for Customer 360-Degree Analytics,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet the Oracle JavaFX and JDK Client Team,Java Clients and User Interfaces
+HarfBuzz: Modern OpenType Layout Comes to JDK 9 (JEP 258),Java Clients and User Interfaces
+JUnit 5,Core Java Platform
+Blockchain Introduction for Developers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Machine Learning Applied to Regulatory Technology,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Goin’ Mobile: Developing JavaFX Apps for iOS and Android with Java 9,Java Clients and User Interfaces
+Lambda Programming Laboratory,Core Java Platform
+Java Flight Recorder in JDK 9/Java Mission Control 6,Core Java Platform
+“So; What Are They Talking About Now?”: Visual Topic Analysis with Graph ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Adventures with Higher-Order Types in a Purely Functional Language,Emerging Languages
+Baking a Java EE 8 Micro Pi,Java; Cloud; and Server-Side Development
+Free Your Lambdas,Core Java Platform
+Managing Microservices with Terraform; Docker; and the Cloud,Java; Cloud; and Server-Side Development
+Rapid Development Tools for Java EE 8,Java Development Tools
+A Step-by-Step Guide from Traditional Java EE to Reactive Microservice Design,Java; Cloud; and Server-Side Development
+Java EE 8: Hands-on with the New Features,Java; Cloud; and Server-Side Development
+Starting Out with JUnit 5,Java Development Tools
+Journey’s End: Collection and Reduction in the Streams API,Core Java Platform
+A Practical Guide to Cloud-Native Java Apps and Continuous Delivery,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Simplified and Fast Fraud Detection,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Refactoring to Functional Style,Core Java Platform
+Twelve Ways to Make Code Suck Less,Core Java Platform
+Java 8 Programming Idioms,Core Java Platform
+Developer Advocate Amotivational Syndrome,Developer Community Day: Developer Relations
+Opening Up Java EE: Panel Discussion with Oracle; IBM; Red Hat; and the Eclipse Foundation,Java; Cloud; and Server-Side Development
+The Influential Engineer: Overcoming Resistance to Change,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Deep Learning for Enterprise With Skymind's Deeplearning4j,Core Java Platform
+Changes to the JDK Release Model,Core Java Platform
+Five Killer Tricks to Make Your Java Web App Look Awesome,Developer Community Day: Community
+Learn the Concepts Behind Those 10 Java Challenges and Eliminate Stressful Bugs,Developer Community Day: Community
+JGrounds: Playgrounds App for Java,Java Development Tools
+Autonomous Driving and Factory Automation: JSR 282 Brings Java to New Domains,Java and Devices
+The Legacy Developer’s Guide to Java 9,Java Development Tools
+Distinguish Pop Music from Heavy Metal with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Be Accepted to Speak at a Conference,Java Community
+Microservices Mishaps,Java Development Tools
+Securing Your Java Application: Is SecurityManager the Answer?,Core Java Platform
+JSF 2.3 in Action,Java; Cloud; and Server-Side Development
+Java; Pi’s; and Flying Sharks: Or How to Create a Java Airship in <127 Grams,Java and Devices
+TomTom Cloud Healer: Cloud-Agnostic Self-Managed Instance Recycling for Java,Java; Cloud; and Server-Side Development
+Deep Learning and Image Recognition for Java Developers,Java Development Tools
+How to Run a Successful Open Source Java EE Project,Java; Cloud; and Server-Side Development
+Meet the JCP and Java Standards Leaders,Java Community
+Database Actions with Java 9 Stream Syntax Instead of SQL,Java Development Tools
+Machine Learning Exposed: Workshop,Java and Devices
+DevOps and Cloud-Native Microservices Workshop with MySQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Replicate Data in the Cloud in Real Time,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Apache Maven BOF,Java Development Tools
+Introduction to Spark Streaming for Real-Time Data Analysis,Java; Cloud; and Server-Side Development
+JavaFX Real-World Applications: Reloaded,Java Clients and User Interfaces
+Modernizing an Enterprise Application with JavaFX 8,Java Clients and User Interfaces
+Big Data Processing with Apache Spark: Scala or Java?,Java; Cloud; and Server-Side Development
+Confessions of a Java Educator: 10 Java Insights I Wish I’d Had Earlier,Core Java Platform
+DevOps: State of the Union,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From VMs to Containers: Decompose and Migrate Old Legacy Java EE Applications,Java; Cloud; and Server-Side Development
+Automated Functional Web Testing on the JVM with Geb,Java; Cloud; and Server-Side Development
+How to Write and Ship Better Code with the Apache NetBeans IDE,Java Development Tools
+No More Duplicate Transactions: A Java API for At-Most-Once COMMIT,Java; Cloud; and Server-Side Development
+Herding Cats: Harvard Dataverse’s Approach to Technical Community Management,Java; Cloud; and Server-Side Development
+Modules Are Coming...to Libraries??,Core Java Platform
+The Secret of Developing a High-Performance Website with No Budget,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE: Revolutionizing Design Pattern Use,Java; Cloud; and Server-Side Development
+MVC 1.0: Community Involvement Matters!,Java; Cloud; and Server-Side Development
+OpenJDK Ins and Outs,Core Java Platform
+Using Type Annotations to Improve Your Code,Core Java Platform
+How to Tame a Tweetwall,Java Clients and User Interfaces
+Kubernetes BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Maintenance: The Silent Killer,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Power of Java Technologies,Core Java Platform
+CDI Ecosystem,Java; Cloud; and Server-Side Development
+Microservices BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java Council: Live Podcast,Core Java Platform
+Building Cloud-Native Applications with IBM Cloud Private,Java; Cloud; and Server-Side Development
+Get Your Hands Dirty with Oracle JavaScript Extension Toolkit,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Serverless @ Oracle,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Create and Deploy Java Microservices with MicroProfile and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Build Your First Chatbot and Learn How to Use Conversational UI,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Docker 101,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Get Started on Oracle Cloud - Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Introduction to Reactive Systems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Test; Deploy; Operate: A Four-Step Docker; Kubernetes; Java Tutorial,Java; Cloud; and Server-Side Development
+Docker; Kubernetes; and OpenShift for Java Developers,Java; Cloud; and Server-Side Development
+Get Started on Oracle Cloud: Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE 7 with Apache Spark for the World’s Largest Credit Card Core Systems,Java; Cloud; and Server-Side Development
+Java; Machine Learning; and Healthcare: How Developers Can Make a Difference,Java and Devices
+JUnit5: Features; Architecture; and Extensibility—Part 2,Java Development Tools
+The Top 10 Dos and Don'ts of JSON Processing in a Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Three Microservice Patterns to Tear Down Your Monoliths,Java; Cloud; and Server-Side Development
+Transforming IoT with Voice UI;  Java; AI; and the Cloud,Java and Devices
+Tuning G1 for Real-World Applications,Core Java Platform
+Asynchronous API with CompletableFuture: Performance Tips and Tricks,Core Java Platform
+Enterprise Cross-Platform Mobile Applications with Gluon,Developer Community Day: NetBeans
+G1GC Concepts and Performance Tuning,Core Java Platform
+Ground Systems for the NASA James Webb Space Telescope Using the Java Platform,Java Clients and User Interfaces
+Making the JDK More Secure,Core Java Platform
+Streams in JDK 8: The Good; the Bad; and the Ugly,Core Java Platform
+The Diabolical Developer’s Guide to Surviving Java 9,Core Java Platform
+Breaking up the Monolith with Jigsaw: An Architect’s View,Developer Community Day: NetBeans
+Bridging the Gap Between Database and Stream,Java Development Tools
+Build; Test; and Deliver Code Faster with Containers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Continuous Code Quality with SonarQube and SonarLint,Java Development Tools
+Fun Things to Do with Nashorn in Java 9,Emerging Languages
+How to Speed Up 150K Functional Tests in a 17-Year-Old Codebase,Java Development Tools
+Java 9: Search 9 TB in 0.9 Microseconds,Java Development Tools
+Java Card: 20 Years of Security Innovation,Java and Devices
+JDK 9 Hidden Gems,Core Java Platform
+JNoSQL: The Definitive Solution for Java and NoSQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Nashorn: What’s New in JDK 9,Emerging Languages
+Need-to-Know Patterns for Building Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Quantum Computing Exposed: The Fundamentals,Emerging Languages
+The Art of Performance Tuning,Java Development Tools
+Analyzing Streaming Video with Apache Spark,Java; Cloud; and Server-Side Development
+Asynchronous by Default; Synchronous When Necessary,Java; Cloud; and Server-Side Development
+Bringing Apache Cassandra to JDK 9,Core Java Platform
+Docker Tips and Tricks for Java Developers,Java; Cloud; and Server-Side Development
+Java Best Practices for Developing and Deploying Against Databases in the Cloud,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java in a World of Containers,Java; Cloud; and Server-Side Development
+Java LangSec: New Security Enhancements in Java 9,Core Java Platform
+Java Secure Coding Guidelines,Core Java Platform
+Marlin; a JDK9 Success Story: Vector Graphics on Steroids for Java 2D and JavaFX,Java Clients and User Interfaces
+Monitoring and Troubleshooting Tools Available in Your Java 9 “bin” Folder,Core Java Platform
+Protecting Java Microservices: Practices and Strategies,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Secrets of Building a Debuggable Runtime,Emerging Languages
+Securing the IoT Edge with Java Card,Java and Devices
+Vectors with Values on the JVM,Core Java Platform
+Writing Best-in-Class Web Apps in Java,Java Clients and User Interfaces
+Big Data on Big Maps:  Displaying Vast Amounts of Geospatial Data,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Building Mobile Apps with Gluon and JavaFX,Java Clients and User Interfaces
+Build Web; Mobile; and Desktop Applications with Oracle JET; Oracle Cloud; and Electron,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Collaborative Cloud-Based Virtual Reality for Scientific Education and Research,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Graal VM: High-Performance Polyglot Runtime ,Emerging Languages
+Java ME for IoT: From Prototype to Product,Java and Devices
+Java PaaS: Then; Now; and Next,Java; Cloud; and Server-Side Development
+Next-Gen Visual Programming and 3D Modeling in the Cloud,Java Clients and User Interfaces
+Putting a Vulcan Nerve Pinch on Java Tests,Java Development Tools
+Rapid Node.js Development with NetBeans,Developer Community Day: NetBeans
+Why Bother with Kotlin,Emerging Languages
+Why You’re Going to <i>Fail</i> Running Java on Docker!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+12 Factors for Cloud Success,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Debug; and Deploy Your First Chatbot,Java; Cloud; and Server-Side Development
+Developing Microservices with Kotlin,Emerging Languages
+Event Sourcing with JVM Languages,Developer Community Day: Community
+Getting Started with Spark,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How Languages Influence Each Other: Reflections on 14 Years of Apache Groovy,Emerging Languages
+IntelliJ IDEA Tips and Tricks,Java Development Tools
+JavaScript: Does It Make Sense In Large Web and Mobile Apps?,Emerging Languages
+Optimizing Wind Farms with Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Pattern Matching the Genome at Scale with Docker and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+SODA: An Open Source NoSQL-Style JSON Document API for Relational Databases,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build Happiness: Using Gradle to Build Better Software,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Clouds; Functions; Density; and Compute,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Extreme GUI Makeover 2017,Java Clients and User Interfaces
+Java at Speed: Getting the Most Out of Modern Hardware,Core Java Platform
+Java Desktop in the Wild for Science and Analysis,Java Clients and User Interfaces
+Java EE: Heavyweight or Lightweight—Mythbusters,Java; Cloud; and Server-Side Development
+Microservices and Cloud-Driven Code Simplification,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern Application and Microservices Security from EE6 JASPIC to the EE8 Security API,Java; Cloud; and Server-Side Development
+Understanding Java Garbage Collection,Core Java Platform
+Updating Your Java Client Desktop and JavaFX Applications for JDK 9,Java Clients and User Interfaces
+Against All Odds: Solving the Interoperability Puzzle in the Smart Home,Java and Devices
+Collections Refueled,Core Java Platform
+DevOps; Continuous Delivery; and Deployment at a Hyper Scale ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Never Change State; and Still Get Things Done,Emerging Languages
+Optional: The Mother of All Bike Sheds,Core Java Platform
+Platform Compatibility and Upgradability: The Untold Cloud Story   ,Emerging Languages
+Spinnaker; Kubernetes; and Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java EE-stic (=No Dependencies) Way to Develop HTML5 Applications,Java Clients and User Interfaces
+Twitter’s Quest for a Wholly Graal Runtime,Core Java Platform
+Visualizing Aircraft Data: Oracle IoT Cloud Service; Raspberry Pi; and Radio Surveillance,Java and Devices
+5 Pillars of a Successful Java Web Application,Developer Community Day: User Groups
+Compiling Java to JavaScript: How to Replace Applets Without the Plugin,Emerging Languages
+Everything You Wanted to Know About  JIT Compilation but Were Afraid to Ask,Core Java Platform
+Exploring Java 9 with REPL,Core Java Platform
+How to Get a Raspberry Pi Brain to Play Minecraft,Java and Devices
+Introduction to Machine Learning with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+It’s Good to Have (JVM) Options,Core Java Platform
+JShell: An Interactive Shell for the Java Platform,Java Development Tools
+JSR 375: New Security APIs for Java EE,Java; Cloud; and Server-Side Development
+Jump-start Your Microservices Development with Java EE,Java; Cloud; and Server-Side Development
+Leaner; Faster Code with Advanced SQL Techniques,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Learn: Microservice Wizardry with Dropwizard,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern JavaScript Server Stack,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Offline-First Design and Web Components in Java,Java Clients and User Interfaces
+Reactive Microservices with JRuby and Docker,Emerging Languages
+Redux with JavaFX,Java Clients and User Interfaces
+Secure Data Management for Java Gateway Devices on the Edge,Java and Devices
+Show and Tell: JavaScript Generator Patterns and New Use Cases,Emerging Languages
+Teaching Kids to Program in Java with Greenfoot: Visual; Interactive; Motivating,Java Community
+The Hitchhiker’s Guide to Java Class Reloading,Java Development Tools
+Troubleshooting Memory Problems in Java Applications,Core Java Platform
+What’s New in JAX-RS 2.1?,Java; Cloud; and Server-Side Development
+55 New Features In JDK 9,Core Java Platform
+Amazon Alexa Skills Versus Google Home Actions: The Big Java VUI Face-off,Java and Devices
+Are You Feeling Lucky? Casino Games; IoT; and Java,Java and Devices
+Code Generation with Annotation Processors: State of the Art in Java 9,Core Java Platform
+Complicating Complexity: Algorithm Performance in the New Machine Age,Core Java Platform
+Designing and Visualizing Deep Space Manned Missions and Probe Trajectories,Java Clients and User Interfaces
+Development Horror Stories,Developer Community Day: Community
+DevOps in the Cloud: A Use Case and Best Practices ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Divide; Distribute; and Conquer: Stream Versus Batch,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From Concept to Robotic Overlord with Robo4J,Java and Devices
+Kotlin EE: Boost Your Productivity,Java; Cloud; and Server-Side Development
+Let’s Write Our Own Chip-8 Interpreter!,Emerging Languages
+Make Your CPU Cores Sweat with Parallel Streams,Core Java Platform
+OpenJ9: Under the Hood of the Next Open Source JVM,Core Java Platform
+OpenJDK: How to Join In on All the Fun,Java Community
+Spice Up Your JUG with New Event Formats,Developer Community Day: Community
+Supercharged JavaFX with Kotlin and TornadoFX,Java Clients and User Interfaces
+The Hacker’s Guide to Session Hijacking,Java; Cloud; and Server-Side Development
+Architecting for Failure: Why Are Distributed Systems Hard?,Java; Cloud; and Server-Side Development
+Be Pragmatic,Developer Community Day: Community
+Bring Your Favorite Kafka to Java EE with CDI,Java; Cloud; and Server-Side Development
+Easily Secure Your Front- and Back-End Applications with KeyCloak,Java; Cloud; and Server-Side Development
+Eclipse Che for Java Microservice Developers,Java Development Tools
+Extreme Vetting: Five Open-Source APM Tools and Their Resource Overhead,Java Development Tools
+It’s Java; but Not As We Know It,Core Java Platform
+JavaFX 101,Java Clients and User Interfaces
+Migrating Your GUI from Swing to JavaFX: Lessons from Experience,Java Clients and User Interfaces
+Polyglot Adventures for the Modern Java Developer,Emerging Languages
+ACID Is So Yesterday: Maintaining Data Consistency with Sagas,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Boost Your Skills with Open Source,Developer Community Day: Community
+Building from Minutes to Seconds: Maximizing Incrementality with Gradle,Java Development Tools
+Creating a Connected Home: Live Coding and Demos,Java and Devices
+Designing for Modularity with Java 9,Core Java Platform
+Improving Your Groovy Kung-Fu,Emerging Languages
+Interactive Data Analytics and Visualization with Collaborative Documents,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Servlet 4.0: A New Twist on an Old Favorite,Java; Cloud; and Server-Side Development
+What’s New in Gradle 4.0,Java Development Tools
+A Competitive Food Retail Architecture with Microservices,Java; Cloud; and Server-Side Development
+Contemporary Java Web Applications with JSF 2.3,Java; Cloud; and Server-Side Development
+JAX-RS and CDI Bike the (Reactive) Bridge,Java; Cloud; and Server-Side Development
+JDK 9 Language; Tooling; and Library Features,Core Java Platform
+Machine Learning for Java Developers in 45 Minutes,Java and Devices
+Modular Development with JDK 9,Core Java Platform
+Modules and Services,Core Java Platform
+Real-Time UI with Apache Kafka Streaming Analytics of Fast Data and Server Push,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Web Application Security for Developers: Tooling and Best Practices,Java Development Tools
+User Interface Prototyping with JavaFX Beyond Desktops,Java Clients and User Interfaces
+Ask the OpenJ9 Architects,Core Java Platform
+Building Kotlin Applications at Scale with Gradle,Emerging Languages
+Extremely Typed: Haskell for the JVM,Emerging Languages
+How to Make a Project Java 9–Compatible,Core Java Platform
+Java Code Inspection and Testing Power Tools,Java Development Tools
+Java EE 8: What’s New in the Java EE 8 Release,Java; Cloud; and Server-Side Development
+Java; the JCP; and You,Developer Community Day: Community
+Modularizing Acme Air: A Case Study in Modularizing a Java App,Core Java Platform
+Revitalizing a Mature JUG: Lessons from Philly,Developer Community Day: User Groups
+Thinking Strategically About IoT,Java and Devices
+Use Voice Recognition with Alexa to Control Your Home,Java and Devices
+Analyzing HotSpot Crashes,Core Java Platform
+Blockchain? What Is Blockchain? Why Do I Care?,Emerging Languages
+Building and Testing Java 9 Applications with Gradle,Java Development Tools
+Cloud-Based Test Microservices,Java Development Tools
+Design Patterns in Java 8,Core Java Platform
+Get Hip with JHipster,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How We Started Our First Java Conference: JVMCON,Developer Community Day: Community
+Java Versus Node.js Versus Swift in the Language Performance Olympics,Emerging Languages
+Lambda Chops: Recipes for Simpler; More Expressive Code,Core Java Platform
+Modern Web Apps with HTML5 Web Components; Polymer; Java EE MVC 1.0; and JAX-RS,Java; Cloud; and Server-Side Development
+Open-Sourcing IBM’s J9 Java Virtual Machine,Core Java Platform
+Parallel Streams; CompletableFuture; and All That: Concurrency in Java 8,Core Java Platform
+Project Jigsaw Integration with Tools,Java Development Tools
+Projector Pattern for Efficient Creation of Ambitious User Interfaces,Java Clients and User Interfaces
+Reactive Stream Processing with WildFly Swarm and Apache Kafka,Java; Cloud; and Server-Side Development
+Robots for the Kid in All of Us,Java and Devices
+Single-Page Web Apps in Plain Java with Vaadin,Developer Community Day: NetBeans
+Solving HTML5/JavaScript/REST Backlogs Through Visual Development,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Secret Sauce of Successful Teams,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Byte Buddy: Bytecode Generation Made Easy,Java Development Tools
+How to Hack into Your Oracle Database via Node.js; Using SQL Injection,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java 8: The Good; the Bad; and the Ugly,Core Java Platform
+JDBC Next: A New Asynchronous API for Connecting to a Database,Java; Cloud; and Server-Side Development
+JEDI and JEDI4KiDS: Challenging Minds; Changing Lives.,Developer Community Day: Community
+JShell: The Ultimate Missing Tool ,Java Development Tools
+Lazy Java,Core Java Platform
+Modern Java Recipes,Core Java Platform
+Scala Under the Hood,Emerging Languages
+Streams in the Wild,Core Java Platform
+The Reactive Landscape,Java; Cloud; and Server-Side Development
+Building DSLs with Scala,Emerging Languages
+Choosing a NoSQL API and Database to Avoid Tombstones and Dragons in Game On!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Cloud-Native Java Done Right,Java; Cloud; and Server-Side Development
+Creating RESTful Web Services the Easy Way with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Effective Design of RESTful APIs,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Intro to Mutation Testing in Java,Java Development Tools
+Kafka Streams + TensorFlow + H2O.ai = Highly Scalable Deep Learning,Java; Cloud; and Server-Side Development
+Keeping Your Data Sane with Bean Validation 2.0,Java; Cloud; and Server-Side Development
+Maven and Its Impact on Java 9 Projects,Java Development Tools
+Migrating to Java 9 Modules,Core Java Platform
+Refactoring Design Patterns the Functional Way (in Scala),Emerging Languages
+Security Policy File Best Practices for Your Java/JDBC Modules ,Java; Cloud; and Server-Side Development
+Serverless; the Future of the Cloud?,Java; Cloud; and Server-Side Development
+When Should You Look at GraphQL as an Alternative to REST APIs?,Emerging Languages
+A RESTful Java Framework for Asynchronous High-Speed Ingest,Java; Cloud; and Server-Side Development
+Collections.compare:JDK; Eclipse; Guava; Apache...,Core Java Platform
+Data Science for the Busy Java Developer,Java Development Tools
+MVC 1.0: The @Controller of the Community,Java; Cloud; and Server-Side Development
+One Application to Rule Them All,Java Clients and User Interfaces
+Optimizing Java with Linux Perf,Java Development Tools
+Portable Database Access for JavaScript Applications; Using Java 8 Nashorn,Java; Cloud; and Server-Side Development
+Portlet 3.0 Deep Dive,Java; Cloud; and Server-Side Development
+Scale Up with Lock-Free Algorithms,Core Java Platform
+Services; Assemble! Apply MVP Principles to Create Microservices Without Chaos,Java; Cloud; and Server-Side Development
+Turning Relational Database Tables into Spark Data Sources,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Virtual Reality in Java: Is It Possible?,Java and Devices
+Building Real-time Data in Web Applications with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Choreographing Microservices Through Messaging,Java; Cloud; and Server-Side Development
+Clouds and Containers: Straight Up; What’s the Difference and Why Should I Care?,Java; Cloud; and Server-Side Development
+Container: Check! But What About Persistent Data; Big Data; and Fast Data?!,Java; Cloud; and Server-Side Development
+Coroutines on JVM with Kotlin,Emerging Languages
+Demystifying Microservices for Java EE Developers,Java; Cloud; and Server-Side Development
+End-to-End Kotlin in a Java Enterprise,Emerging Languages
+Going Reactive with Spring 5 and Project Reactor,Java; Cloud; and Server-Side Development
+Java EE Postmodernism,Java; Cloud; and Server-Side Development
+JDK9 Through the Command Line,Java Development Tools
+Managing Consistency; State; and Identity in Distributed Microservices,Java; Cloud; and Server-Side Development
+Modules or Microservices?,Java; Cloud; and Server-Side Development
+Panel: Accelerating the Adoption of Java EE 8 with MicroProfile,Java; Cloud; and Server-Side Development
+Delivering Better Code Faster with Spock,Java Development Tools
+Emerging Languages Bowl 2017: The Growth Spurt Continues,Emerging Languages
+Immutable Collections,Core Java Platform
+Java Versus JavaScript for the Enterprise?,Java Development Tools
+Makers of the Oracle CodeLounge,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet Apache NetBeans,Developer Community Day: NetBeans
+Migrating to Modules,Core Java Platform
+Productive and Effective Development with Spring and Java EE,Java Development Tools
+Shenandoah 2.0: Now That We’ve Gotten the GC Pause Times Under Control; What’s Next?,Core Java Platform
+Super Duke Land,Java Clients and User Interfaces
+What If Everything Were a Database?,Emerging Languages
+You Are Not Cut Out to Be a Java Contractor,Developer Community Day: Community
+You Deserve Great Tools: Play on Gradle and the Midtier Behind linkedin.com,Emerging Languages
+Ask the JDK Architects,Core Java Platform
+Deconstructing and Evolving REST Security,Java; Cloud; and Server-Side Development
+How to Use Java Cryptography API Securely ,Core Java Platform
+JavaScript Libraries: Which Ones for Your Project?,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java Test Automation for REST; Web; and Mobile,Java Development Tools
+Monitoring JVMs in the Cloud with Thermostat,Java Development Tools
+Operationalizing Machine Learning into “Predictive” Enterprise Applications,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Performance Pipeline and Java Performance Tools,Java Development Tools
+Prepare for JDK 9,Core Java Platform
+Simplifying and Optimizing Your DevOps Development and Deployment with Graal,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Part They Don’t Tell You About Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Road to Contributing to the Java Technology Community by Developing a Tool,Developer Community Day: Community
+Traffic and Performance Analytics and Cloud Bursting with Machine Learning,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+You Deserve Great Tools: Commit-to-Production Automation at LinkedIn,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Delivering Developer Tools at Scale with Swagger and the Open Source Community,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Enterprise JavaScript: What the Heck?!,Emerging Languages
+Feeding Nine Million Java Developers: How and What?,Developer Community Day: Community
+Java Performance Tuning with Free Tools,Developer Community Day: NetBeans
+Measuring DevRel Success: Are We There Yet?,Developer Community Day: Developer Relations
+Modernize Your IT Landscape with API-Driven Architectures,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Remotely Update Java IoT Devices with Eclipse Hawkbit and SWUpdate,Java and Devices
+The G1 GC in JDK 9,Core Java Platform
+The Good Cop/Bad Cop Guide to Java 9,Core Java Platform
+You Deserve Great Tools: Mockito 2 for Cleaner Tests and Enhanced Productivity,Java Development Tools
+Apache Kafka: Scalable Message Processing and More,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+API Deep Dive: Designing Eclipse Collections ,Core Java Platform
+Boost Your Java IDE with Kubernetes,Java Development Tools
+Deus Ex Scala: Finding a Home for Scala in the Corporate Machine,Emerging Languages
+DevRel for Skeptics,Developer Community Day: Developer Relations
+Discover CDI 2.0 in Live Coding,Java; Cloud; and Server-Side Development
+Groovy Support in NetBeans: A State of the Union,Java Development Tools
+Let’s Wing It: A Study in DevRel Strategy,Developer Community Day: Developer Relations
+Modules in One Lesson,Core Java Platform
+Streaming Solutions for Real-Time Problems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Trust Your Pipeline: Automatically Testing an End-to-End Java Application,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Visual JShell: JShell on Steroids,Java Development Tools
+Preventing Errors Before They Happen,Java Development Tools
+Techniques for Getting More Kids; Especially Girls; Involved in STEAM,Java Community
+Move Data Between Apache Hadoop and Oracle Database for Customer 360-Degree Analytics,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet the Oracle JavaFX and JDK Client Team,Java Clients and User Interfaces
+HarfBuzz: Modern OpenType Layout Comes to JDK 9 (JEP 258),Java Clients and User Interfaces
+JUnit 5,Core Java Platform
+Blockchain Introduction for Developers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Machine Learning Applied to Regulatory Technology,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Goin’ Mobile: Developing JavaFX Apps for iOS and Android with Java 9,Java Clients and User Interfaces
+Lambda Programming Laboratory,Core Java Platform
+Java Flight Recorder in JDK 9/Java Mission Control 6,Core Java Platform
+“So; What Are They Talking About Now?”: Visual Topic Analysis with Graph ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Adventures with Higher-Order Types in a Purely Functional Language,Emerging Languages
+Baking a Java EE 8 Micro Pi,Java; Cloud; and Server-Side Development
+Free Your Lambdas,Core Java Platform
+Managing Microservices with Terraform; Docker; and the Cloud,Java; Cloud; and Server-Side Development
+Rapid Development Tools for Java EE 8,Java Development Tools
+A Step-by-Step Guide from Traditional Java EE to Reactive Microservice Design,Java; Cloud; and Server-Side Development
+Java EE 8: Hands-on with the New Features,Java; Cloud; and Server-Side Development
+Starting Out with JUnit 5,Java Development Tools
+Journey’s End: Collection and Reduction in the Streams API,Core Java Platform
+A Practical Guide to Cloud-Native Java Apps and Continuous Delivery,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Simplified and Fast Fraud Detection,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Refactoring to Functional Style,Core Java Platform
+Twelve Ways to Make Code Suck Less,Core Java Platform
+Java 8 Programming Idioms,Core Java Platform
+Developer Advocate Amotivational Syndrome,Developer Community Day: Developer Relations
+Opening Up Java EE: Panel Discussion with Oracle; IBM; Red Hat; and the Eclipse Foundation,Java; Cloud; and Server-Side Development
+The Influential Engineer: Overcoming Resistance to Change,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Deep Learning for Enterprise With Skymind's Deeplearning4j,Core Java Platform
+Changes to the JDK Release Model,Core Java Platform
+Five Killer Tricks to Make Your Java Web App Look Awesome,Developer Community Day: Community
+Learn the Concepts Behind Those 10 Java Challenges and Eliminate Stressful Bugs,Developer Community Day: Community
+JGrounds: Playgrounds App for Java,Java Development Tools
+Autonomous Driving and Factory Automation: JSR 282 Brings Java to New Domains,Java and Devices
+The Legacy Developer’s Guide to Java 9,Java Development Tools
+Distinguish Pop Music from Heavy Metal with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Be Accepted to Speak at a Conference,Java Community
+Microservices Mishaps,Java Development Tools
+Securing Your Java Application: Is SecurityManager the Answer?,Core Java Platform
+JSF 2.3 in Action,Java; Cloud; and Server-Side Development
+Java; Pi’s; and Flying Sharks: Or How to Create a Java Airship in <127 Grams,Java and Devices
+TomTom Cloud Healer: Cloud-Agnostic Self-Managed Instance Recycling for Java,Java; Cloud; and Server-Side Development
+Deep Learning and Image Recognition for Java Developers,Java Development Tools
+How to Run a Successful Open Source Java EE Project,Java; Cloud; and Server-Side Development
+Meet the JCP and Java Standards Leaders,Java Community
+Database Actions with Java 9 Stream Syntax Instead of SQL,Java Development Tools
+Machine Learning Exposed: Workshop,Java and Devices
+DevOps and Cloud-Native Microservices Workshop with MySQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How to Replicate Data in the Cloud in Real Time,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Apache Maven BOF,Java Development Tools
+Introduction to Spark Streaming for Real-Time Data Analysis,Java; Cloud; and Server-Side Development
+JavaFX Real-World Applications: Reloaded,Java Clients and User Interfaces
+Modernizing an Enterprise Application with JavaFX 8,Java Clients and User Interfaces
+Big Data Processing with Apache Spark: Scala or Java?,Java; Cloud; and Server-Side Development
+Confessions of a Java Educator: 10 Java Insights I Wish I’d Had Earlier,Core Java Platform
+DevOps: State of the Union,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From VMs to Containers: Decompose and Migrate Old Legacy Java EE Applications,Java; Cloud; and Server-Side Development
+Automated Functional Web Testing on the JVM with Geb,Java; Cloud; and Server-Side Development
+How to Write and Ship Better Code with the Apache NetBeans IDE,Java Development Tools
+No More Duplicate Transactions: A Java API for At-Most-Once COMMIT,Java; Cloud; and Server-Side Development
+Herding Cats: Harvard Dataverse’s Approach to Technical Community Management,Java; Cloud; and Server-Side Development
+Modules Are Coming...to Libraries??,Core Java Platform
+The Secret of Developing a High-Performance Website with No Budget,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE: Revolutionizing Design Pattern Use,Java; Cloud; and Server-Side Development
+MVC 1.0: Community Involvement Matters!,Java; Cloud; and Server-Side Development
+OpenJDK Ins and Outs,Core Java Platform
+Using Type Annotations to Improve Your Code,Core Java Platform
+How to Tame a Tweetwall,Java Clients and User Interfaces
+Kubernetes BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Maintenance: The Silent Killer,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Power of Java Technologies,Core Java Platform
+CDI Ecosystem,Java; Cloud; and Server-Side Development
+Microservices BOF,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java Council: Live Podcast,Core Java Platform
+Building Cloud-Native Applications with IBM Cloud Private,Java; Cloud; and Server-Side Development
+Get Your Hands Dirty with Oracle JavaScript Extension Toolkit,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Serverless @ Oracle,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Create and Deploy Java Microservices with MicroProfile and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Build Your First Chatbot and Learn How to Use Conversational UI,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Docker 101,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Hands-on Lab: Get Started on Oracle Cloud - Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Introduction to Reactive Systems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Test; Deploy; Operate: A Four-Step Docker; Kubernetes; Java Tutorial,Java; Cloud; and Server-Side Development
+Docker; Kubernetes; and OpenShift for Java Developers,Java; Cloud; and Server-Side Development
+Get Started on Oracle Cloud: Java Apps with Containers and DevOps,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java EE 7 with Apache Spark for the World’s Largest Credit Card Core Systems,Java; Cloud; and Server-Side Development
+Java; Machine Learning; and Healthcare: How Developers Can Make a Difference,Java and Devices
+JUnit5: Features; Architecture; and Extensibility—Part 2,Java Development Tools
+The Top 10 Dos and Don'ts of JSON Processing in a Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Three Microservice Patterns to Tear Down Your Monoliths,Java; Cloud; and Server-Side Development
+Transforming IoT with Voice UI;  Java; AI; and the Cloud,Java and Devices
+Tuning G1 for Real-World Applications,Core Java Platform
+Asynchronous API with CompletableFuture: Performance Tips and Tricks,Core Java Platform
+Enterprise Cross-Platform Mobile Applications with Gluon,Developer Community Day: NetBeans
+G1GC Concepts and Performance Tuning,Core Java Platform
+Ground Systems for the NASA James Webb Space Telescope Using the Java Platform,Java Clients and User Interfaces
+Making the JDK More Secure,Core Java Platform
+Streams in JDK 8: The Good; the Bad; and the Ugly,Core Java Platform
+The Diabolical Developer’s Guide to Surviving Java 9,Core Java Platform
+Breaking up the Monolith with Jigsaw: An Architect’s View,Developer Community Day: NetBeans
+Bridging the Gap Between Database and Stream,Java Development Tools
+Build; Test; and Deliver Code Faster with Containers,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Continuous Code Quality with SonarQube and SonarLint,Java Development Tools
+Fun Things to Do with Nashorn in Java 9,Emerging Languages
+How to Speed Up 150K Functional Tests in a 17-Year-Old Codebase,Java Development Tools
+Java 9: Search 9 TB in 0.9 Microseconds,Java Development Tools
+Java Card: 20 Years of Security Innovation,Java and Devices
+JDK 9 Hidden Gems,Core Java Platform
+JNoSQL: The Definitive Solution for Java and NoSQL Database,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Nashorn: What’s New in JDK 9,Emerging Languages
+Need-to-Know Patterns for Building Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Quantum Computing Exposed: The Fundamentals,Emerging Languages
+The Art of Performance Tuning,Java Development Tools
+Analyzing Streaming Video with Apache Spark,Java; Cloud; and Server-Side Development
+Asynchronous by Default; Synchronous When Necessary,Java; Cloud; and Server-Side Development
+Bringing Apache Cassandra to JDK 9,Core Java Platform
+Docker Tips and Tricks for Java Developers,Java; Cloud; and Server-Side Development
+Java Best Practices for Developing and Deploying Against Databases in the Cloud,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java in a World of Containers,Java; Cloud; and Server-Side Development
+Java LangSec: New Security Enhancements in Java 9,Core Java Platform
+Java Secure Coding Guidelines,Core Java Platform
+Marlin; a JDK9 Success Story: Vector Graphics on Steroids for Java 2D and JavaFX,Java Clients and User Interfaces
+Monitoring and Troubleshooting Tools Available in Your Java 9 “bin” Folder,Core Java Platform
+Protecting Java Microservices: Practices and Strategies,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Secrets of Building a Debuggable Runtime,Emerging Languages
+Securing the IoT Edge with Java Card,Java and Devices
+Vectors with Values on the JVM,Core Java Platform
+Writing Best-in-Class Web Apps in Java,Java Clients and User Interfaces
+Big Data on Big Maps:  Displaying Vast Amounts of Geospatial Data,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Building Mobile Apps with Gluon and JavaFX,Java Clients and User Interfaces
+Build Web; Mobile; and Desktop Applications with Oracle JET; Oracle Cloud; and Electron,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Collaborative Cloud-Based Virtual Reality for Scientific Education and Research,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Graal VM: High-Performance Polyglot Runtime ,Emerging Languages
+Java ME for IoT: From Prototype to Product,Java and Devices
+Java PaaS: Then; Now; and Next,Java; Cloud; and Server-Side Development
+Next-Gen Visual Programming and 3D Modeling in the Cloud,Java Clients and User Interfaces
+Putting a Vulcan Nerve Pinch on Java Tests,Java Development Tools
+Rapid Node.js Development with NetBeans,Developer Community Day: NetBeans
+Why Bother with Kotlin,Emerging Languages
+Why You’re Going to <i>Fail</i> Running Java on Docker!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+12 Factors for Cloud Success,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build; Debug; and Deploy Your First Chatbot,Java; Cloud; and Server-Side Development
+Developing Microservices with Kotlin,Emerging Languages
+Event Sourcing with JVM Languages,Developer Community Day: Community
+Getting Started with Spark,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How Languages Influence Each Other: Reflections on 14 Years of Apache Groovy,Emerging Languages
+IntelliJ IDEA Tips and Tricks,Java Development Tools
+JavaScript: Does It Make Sense In Large Web and Mobile Apps?,Emerging Languages
+Optimizing Wind Farms with Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Pattern Matching the Genome at Scale with Docker and Kubernetes,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+SODA: An Open Source NoSQL-Style JSON Document API for Relational Databases,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Build Happiness: Using Gradle to Build Better Software,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Clouds; Functions; Density; and Compute,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Extreme GUI Makeover 2017,Java Clients and User Interfaces
+Java at Speed: Getting the Most Out of Modern Hardware,Core Java Platform
+Java Desktop in the Wild for Science and Analysis,Java Clients and User Interfaces
+Java EE: Heavyweight or Lightweight—Mythbusters,Java; Cloud; and Server-Side Development
+Microservices and Cloud-Driven Code Simplification,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern Application and Microservices Security from EE6 JASPIC to the EE8 Security API,Java; Cloud; and Server-Side Development
+Understanding Java Garbage Collection,Core Java Platform
+Updating Your Java Client Desktop and JavaFX Applications for JDK 9,Java Clients and User Interfaces
+Against All Odds: Solving the Interoperability Puzzle in the Smart Home,Java and Devices
+Collections Refueled,Core Java Platform
+DevOps; Continuous Delivery; and Deployment at a Hyper Scale ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Never Change State; and Still Get Things Done,Emerging Languages
+Optional: The Mother of All Bike Sheds,Core Java Platform
+Platform Compatibility and Upgradability: The Untold Cloud Story   ,Emerging Languages
+Spinnaker; Kubernetes; and Oracle Cloud Infrastructure,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Java EE-stic (=No Dependencies) Way to Develop HTML5 Applications,Java Clients and User Interfaces
+Twitter’s Quest for a Wholly Graal Runtime,Core Java Platform
+Visualizing Aircraft Data: Oracle IoT Cloud Service; Raspberry Pi; and Radio Surveillance,Java and Devices
+5 Pillars of a Successful Java Web Application,Developer Community Day: User Groups
+Compiling Java to JavaScript: How to Replace Applets Without the Plugin,Emerging Languages
+Everything You Wanted to Know About  JIT Compilation but Were Afraid to Ask,Core Java Platform
+Exploring Java 9 with REPL,Core Java Platform
+How to Get a Raspberry Pi Brain to Play Minecraft,Java and Devices
+Introduction to Machine Learning with Apache Spark MLlib,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+It’s Good to Have (JVM) Options,Core Java Platform
+JShell: An Interactive Shell for the Java Platform,Java Development Tools
+JSR 375: New Security APIs for Java EE,Java; Cloud; and Server-Side Development
+Jump-start Your Microservices Development with Java EE,Java; Cloud; and Server-Side Development
+Leaner; Faster Code with Advanced SQL Techniques,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Learn: Microservice Wizardry with Dropwizard,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Modern JavaScript Server Stack,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Offline-First Design and Web Components in Java,Java Clients and User Interfaces
+Reactive Microservices with JRuby and Docker,Emerging Languages
+Redux with JavaFX,Java Clients and User Interfaces
+Secure Data Management for Java Gateway Devices on the Edge,Java and Devices
+Show and Tell: JavaScript Generator Patterns and New Use Cases,Emerging Languages
+Teaching Kids to Program in Java with Greenfoot: Visual; Interactive; Motivating,Java Community
+The Hitchhiker’s Guide to Java Class Reloading,Java Development Tools
+Troubleshooting Memory Problems in Java Applications,Core Java Platform
+What’s New in JAX-RS 2.1?,Java; Cloud; and Server-Side Development
+55 New Features In JDK 9,Core Java Platform
+Amazon Alexa Skills Versus Google Home Actions: The Big Java VUI Face-off,Java and Devices
+Are You Feeling Lucky? Casino Games; IoT; and Java,Java and Devices
+Code Generation with Annotation Processors: State of the Art in Java 9,Core Java Platform
+Complicating Complexity: Algorithm Performance in the New Machine Age,Core Java Platform
+Designing and Visualizing Deep Space Manned Missions and Probe Trajectories,Java Clients and User Interfaces
+Development Horror Stories,Developer Community Day: Community
+DevOps in the Cloud: A Use Case and Best Practices ,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Divide; Distribute; and Conquer: Stream Versus Batch,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+From Concept to Robotic Overlord with Robo4J,Java and Devices
+Kotlin EE: Boost Your Productivity,Java; Cloud; and Server-Side Development
+Let’s Write Our Own Chip-8 Interpreter!,Emerging Languages
+Make Your CPU Cores Sweat with Parallel Streams,Core Java Platform
+OpenJ9: Under the Hood of the Next Open Source JVM,Core Java Platform
+OpenJDK: How to Join In on All the Fun,Java Community
+Spice Up Your JUG with New Event Formats,Developer Community Day: Community
+Supercharged JavaFX with Kotlin and TornadoFX,Java Clients and User Interfaces
+The Hacker’s Guide to Session Hijacking,Java; Cloud; and Server-Side Development
+Architecting for Failure: Why Are Distributed Systems Hard?,Java; Cloud; and Server-Side Development
+Be Pragmatic,Developer Community Day: Community
+Bring Your Favorite Kafka to Java EE with CDI,Java; Cloud; and Server-Side Development
+Easily Secure Your Front- and Back-End Applications with KeyCloak,Java; Cloud; and Server-Side Development
+Eclipse Che for Java Microservice Developers,Java Development Tools
+Extreme Vetting: Five Open-Source APM Tools and Their Resource Overhead,Java Development Tools
+It’s Java; but Not As We Know It,Core Java Platform
+JavaFX 101,Java Clients and User Interfaces
+Migrating Your GUI from Swing to JavaFX: Lessons from Experience,Java Clients and User Interfaces
+Polyglot Adventures for the Modern Java Developer,Emerging Languages
+ACID Is So Yesterday: Maintaining Data Consistency with Sagas,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Boost Your Skills with Open Source,Developer Community Day: Community
+Building from Minutes to Seconds: Maximizing Incrementality with Gradle,Java Development Tools
+Creating a Connected Home: Live Coding and Demos,Java and Devices
+Designing for Modularity with Java 9,Core Java Platform
+Improving Your Groovy Kung-Fu,Emerging Languages
+Interactive Data Analytics and Visualization with Collaborative Documents,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Servlet 4.0: A New Twist on an Old Favorite,Java; Cloud; and Server-Side Development
+What’s New in Gradle 4.0,Java Development Tools
+A Competitive Food Retail Architecture with Microservices,Java; Cloud; and Server-Side Development
+Contemporary Java Web Applications with JSF 2.3,Java; Cloud; and Server-Side Development
+JAX-RS and CDI Bike the (Reactive) Bridge,Java; Cloud; and Server-Side Development
+JDK 9 Language; Tooling; and Library Features,Core Java Platform
+Machine Learning for Java Developers in 45 Minutes,Java and Devices
+Modular Development with JDK 9,Core Java Platform
+Modules and Services,Core Java Platform
+Real-Time UI with Apache Kafka Streaming Analytics of Fast Data and Server Push,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Web Application Security for Developers: Tooling and Best Practices,Java Development Tools
+User Interface Prototyping with JavaFX Beyond Desktops,Java Clients and User Interfaces
+Ask the OpenJ9 Architects,Core Java Platform
+Building Kotlin Applications at Scale with Gradle,Emerging Languages
+Extremely Typed: Haskell for the JVM,Emerging Languages
+How to Make a Project Java 9–Compatible,Core Java Platform
+Java Code Inspection and Testing Power Tools,Java Development Tools
+Java EE 8: What’s New in the Java EE 8 Release,Java; Cloud; and Server-Side Development
+Java; the JCP; and You,Developer Community Day: Community
+Modularizing Acme Air: A Case Study in Modularizing a Java App,Core Java Platform
+Revitalizing a Mature JUG: Lessons from Philly,Developer Community Day: User Groups
+Thinking Strategically About IoT,Java and Devices
+Use Voice Recognition with Alexa to Control Your Home,Java and Devices
+Analyzing HotSpot Crashes,Core Java Platform
+Blockchain? What Is Blockchain? Why Do I Care?,Emerging Languages
+Building and Testing Java 9 Applications with Gradle,Java Development Tools
+Cloud-Based Test Microservices,Java Development Tools
+Design Patterns in Java 8,Core Java Platform
+Get Hip with JHipster,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+How We Started Our First Java Conference: JVMCON,Developer Community Day: Community
+Java Versus Node.js Versus Swift in the Language Performance Olympics,Emerging Languages
+Lambda Chops: Recipes for Simpler; More Expressive Code,Core Java Platform
+Modern Web Apps with HTML5 Web Components; Polymer; Java EE MVC 1.0; and JAX-RS,Java; Cloud; and Server-Side Development
+Open-Sourcing IBM’s J9 Java Virtual Machine,Core Java Platform
+Parallel Streams; CompletableFuture; and All That: Concurrency in Java 8,Core Java Platform
+Project Jigsaw Integration with Tools,Java Development Tools
+Projector Pattern for Efficient Creation of Ambitious User Interfaces,Java Clients and User Interfaces
+Reactive Stream Processing with WildFly Swarm and Apache Kafka,Java; Cloud; and Server-Side Development
+Robots for the Kid in All of Us,Java and Devices
+Single-Page Web Apps in Plain Java with Vaadin,Developer Community Day: NetBeans
+Solving HTML5/JavaScript/REST Backlogs Through Visual Development,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Secret Sauce of Successful Teams,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Byte Buddy: Bytecode Generation Made Easy,Java Development Tools
+How to Hack into Your Oracle Database via Node.js; Using SQL Injection,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java 8: The Good; the Bad; and the Ugly,Core Java Platform
+JDBC Next: A New Asynchronous API for Connecting to a Database,Java; Cloud; and Server-Side Development
+JEDI and JEDI4KiDS: Challenging Minds; Changing Lives.,Developer Community Day: Community
+JShell: The Ultimate Missing Tool ,Java Development Tools
+Lazy Java,Core Java Platform
+Modern Java Recipes,Core Java Platform
+Scala Under the Hood,Emerging Languages
+Streams in the Wild,Core Java Platform
+The Reactive Landscape,Java; Cloud; and Server-Side Development
+Building DSLs with Scala,Emerging Languages
+Choosing a NoSQL API and Database to Avoid Tombstones and Dragons in Game On!,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Cloud-Native Java Done Right,Java; Cloud; and Server-Side Development
+Creating RESTful Web Services the Easy Way with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Effective Design of RESTful APIs,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Intro to Mutation Testing in Java,Java Development Tools
+Kafka Streams + TensorFlow + H2O.ai = Highly Scalable Deep Learning,Java; Cloud; and Server-Side Development
+Keeping Your Data Sane with Bean Validation 2.0,Java; Cloud; and Server-Side Development
+Maven and Its Impact on Java 9 Projects,Java Development Tools
+Migrating to Java 9 Modules,Core Java Platform
+Refactoring Design Patterns the Functional Way (in Scala),Emerging Languages
+Security Policy File Best Practices for Your Java/JDBC Modules ,Java; Cloud; and Server-Side Development
+Serverless; the Future of the Cloud?,Java; Cloud; and Server-Side Development
+When Should You Look at GraphQL as an Alternative to REST APIs?,Emerging Languages
+A RESTful Java Framework for Asynchronous High-Speed Ingest,Java; Cloud; and Server-Side Development
+Collections.compare:JDK; Eclipse; Guava; Apache...,Core Java Platform
+Data Science for the Busy Java Developer,Java Development Tools
+MVC 1.0: The @Controller of the Community,Java; Cloud; and Server-Side Development
+One Application to Rule Them All,Java Clients and User Interfaces
+Optimizing Java with Linux Perf,Java Development Tools
+Portable Database Access for JavaScript Applications; Using Java 8 Nashorn,Java; Cloud; and Server-Side Development
+Portlet 3.0 Deep Dive,Java; Cloud; and Server-Side Development
+Scale Up with Lock-Free Algorithms,Core Java Platform
+Services; Assemble! Apply MVP Principles to Create Microservices Without Chaos,Java; Cloud; and Server-Side Development
+Turning Relational Database Tables into Spark Data Sources,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Virtual Reality in Java: Is It Possible?,Java and Devices
+Building Real-time Data in Web Applications with Node.js,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Choreographing Microservices Through Messaging,Java; Cloud; and Server-Side Development
+Clouds and Containers: Straight Up; What’s the Difference and Why Should I Care?,Java; Cloud; and Server-Side Development
+Container: Check! But What About Persistent Data; Big Data; and Fast Data?!,Java; Cloud; and Server-Side Development
+Coroutines on JVM with Kotlin,Emerging Languages
+Demystifying Microservices for Java EE Developers,Java; Cloud; and Server-Side Development
+End-to-End Kotlin in a Java Enterprise,Emerging Languages
+Going Reactive with Spring 5 and Project Reactor,Java; Cloud; and Server-Side Development
+Java EE Postmodernism,Java; Cloud; and Server-Side Development
+JDK9 Through the Command Line,Java Development Tools
+Managing Consistency; State; and Identity in Distributed Microservices,Java; Cloud; and Server-Side Development
+Modules or Microservices?,Java; Cloud; and Server-Side Development
+Panel: Accelerating the Adoption of Java EE 8 with MicroProfile,Java; Cloud; and Server-Side Development
+Delivering Better Code Faster with Spock,Java Development Tools
+Emerging Languages Bowl 2017: The Growth Spurt Continues,Emerging Languages
+Immutable Collections,Core Java Platform
+Java Versus JavaScript for the Enterprise?,Java Development Tools
+Makers of the Oracle CodeLounge,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Meet Apache NetBeans,Developer Community Day: NetBeans
+Migrating to Modules,Core Java Platform
+Productive and Effective Development with Spring and Java EE,Java Development Tools
+Shenandoah 2.0: Now That We’ve Gotten the GC Pause Times Under Control; What’s Next?,Core Java Platform
+Super Duke Land,Java Clients and User Interfaces
+What If Everything Were a Database?,Emerging Languages
+You Are Not Cut Out to Be a Java Contractor,Developer Community Day: Community
+You Deserve Great Tools: Play on Gradle and the Midtier Behind linkedin.com,Emerging Languages
+Ask the JDK Architects,Core Java Platform
+Deconstructing and Evolving REST Security,Java; Cloud; and Server-Side Development
+How to Use Java Cryptography API Securely ,Core Java Platform
+JavaScript Libraries: Which Ones for Your Project?,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Java Test Automation for REST; Web; and Mobile,Java Development Tools
+Monitoring JVMs in the Cloud with Thermostat,Java Development Tools
+Operationalizing Machine Learning into “Predictive” Enterprise Applications,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Performance Pipeline and Java Performance Tools,Java Development Tools
+Prepare for JDK 9,Core Java Platform
+Simplifying and Optimizing Your DevOps Development and Deployment with Graal,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Part They Don’t Tell You About Microservices,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+The Road to Contributing to the Java Technology Community by Developing a Tool,Developer Community Day: Community
+Traffic and Performance Analytics and Cloud Bursting with Machine Learning,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+You Deserve Great Tools: Commit-to-Production Automation at LinkedIn,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Delivering Developer Tools at Scale with Swagger and the Open Source Community,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Enterprise JavaScript: What the Heck?!,Emerging Languages
+Feeding Nine Million Java Developers: How and What?,Developer Community Day: Community
+Java Performance Tuning with Free Tools,Developer Community Day: NetBeans
+Measuring DevRel Success: Are We There Yet?,Developer Community Day: Developer Relations
+Modernize Your IT Landscape with API-Driven Architectures,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Remotely Update Java IoT Devices with Eclipse Hawkbit and SWUpdate,Java and Devices
+The G1 GC in JDK 9,Core Java Platform
+The Good Cop/Bad Cop Guide to Java 9,Core Java Platform
+You Deserve Great Tools: Mockito 2 for Cleaner Tests and Enhanced Productivity,Java Development Tools
+Apache Kafka: Scalable Message Processing and More,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+API Deep Dive: Designing Eclipse Collections ,Core Java Platform
+Boost Your Java IDE with Kubernetes,Java Development Tools
+Deus Ex Scala: Finding a Home for Scala in the Corporate Machine,Emerging Languages
+DevRel for Skeptics,Developer Community Day: Developer Relations
+Discover CDI 2.0 in Live Coding,Java; Cloud; and Server-Side Development
+Groovy Support in NetBeans: A State of the Union,Java Development Tools
+Let’s Wing It: A Study in DevRel Strategy,Developer Community Day: Developer Relations
+Modules in One Lesson,Core Java Platform
+Streaming Solutions for Real-Time Problems,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Trust Your Pipeline: Automatically Testing an End-to-End Java Application,Oracle Code: Containers; Microservices; DevOps; Databases; APIs; and more
+Visual JShell: JShell on Steroids,Java Development Tools
